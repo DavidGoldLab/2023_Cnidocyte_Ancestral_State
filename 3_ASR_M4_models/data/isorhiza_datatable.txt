@@ -1,0 +1,630 @@
+Class	Species	Cnidocyte	Descriptor	Reference
+Anthozoa	Actinernus_elongatus	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Actinostephanus_haeckeli	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Adamsia_palliata	isorhiza	atrichous	Schmidt, 1974
+Anthozoa	Adamsia_palliata	isorhiza	basitrichous	Schmidt, 1974
+Anthozoa	Aiptasia_mutabilis	isorhiza	holotrichous	Carlgren, 1940
+Anthozoa	Allantactis_parasitica	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Antholoba_achates	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Anthopleura_krebsi	isorhiza	basitrichous	Bigger, 1988
+Anthozoa	Anthopleura_krebsi	isorhiza	holotrichous	Bigger, 1988
+Anthozoa	Anthosactis_janmayeni	isorhiza	basitrichous	Carlgren, 1949
+Anthozoa	Anthostella_stephensoni	isorhiza	atrichous	Carlgren, 1940
+Anthozoa	Anthostella_stephensoni	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Bartholomea_annulata	isorhiza	basitrichous	Carlgren, 1949
+Anthozoa	Calliactis_parasitica	isorhiza	basitrichous	
+Anthozoa	Cereus_pedunculatus	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Ceriantheomorphe_brasiliensis	isorhiza	atrichous	Carlgren, 1940
+Anthozoa	Ceriantheomorphe_brasiliensis	isorhiza	holotrichous	Carlgren, 1940
+Anthozoa	Ceriantheopsis_americana	isorhiza	atrichous	Carlgren, 1940
+Anthozoa	Ceriantheopsis_americana	isorhiza	holotrichous	Carlgren, 1940
+Anthozoa	Cerianthus_membranaceus	isorhiza	atrichous	Schmidt, 1974
+Anthozoa	Cerianthus_membranaceus	isorhiza	holotrichous	Schmidt, 1974
+Anthozoa	Charisea_saxicola	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Corallimorphus_profundus	isorhiza	holotrichous	Carlgren, 1949
+Anthozoa	Corynactis_californica	isorhiza	holotrichous	Carlgren, 1949
+Anthozoa	Corynactis_viridis	isorhiza	holotrichous	Carlgren, 1949
+Anthozoa	Cricophorus_nutrix	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Dactylanthus_antarcticus	isorhiza	atrichous	Carlgren, 1940
+Anthozoa	Desmophyllum_pertusum	isorhiza	holotrichous	Carlgren, 1940
+Anthozoa	Diadumene_cincta	isorhiza	atrichous	Carlgren, 1940
+Anthozoa	Diadumene_cincta	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Diadumene_cincta	isorhiza	holotrichous	Carlgren, 1940
+Anthozoa	Diadumene_lineata	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Discosoma_nummiforme	isorhiza	holotrichous	Schmidt, 1974
+Anthozoa	Discosoma_nummiforme	isorhiza	atrichous	Schmidt, 1974
+Anthozoa	Epiactis_prolifera	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Epiactis_ritteri	isorhiza	atrichous	Carlgren, 1940
+Anthozoa	Epiactis_ritteri	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Epizoanthus_couchii	isorhiza	holotrichous	Schmidt, 1974
+Anthozoa	Exaiptasia_diaphana	isorhiza	holotrichous	Schmidt, 1974
+Anthozoa	Exocoelactis_actinostoloides	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Glyphoperidium_bursa	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Gonactinia_prolifera	isorhiza	atrichous	Carlgren, 1940
+Anthozoa	Gonactinia_prolifera	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Gyractis_sesere	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Halcampa_duodecimcirrata	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Halcampoides_purpureus	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Heliofungia_actiniformis	isorhiza	holotrichous	
+Anthozoa	Heteractis_aurora	isorhiza	basitrichous	Shostak, 1995 after Carlgren, 1940
+Anthozoa	Hormosoma_scotti	isorhiza	basitrichous	
+Anthozoa	Isactinernus_quadrilobatus	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Isanthus_capensis	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Isoparactis_ferax	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Isotealia_antarctica	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Laviactis_lucida	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Liponema_multiporum	isorhiza	atrichous	Carlgren, 1940
+Anthozoa	Liponema_multiporum	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Lobophyllia_hemprichii	isorhiza	holotrichous	Thomason & Brown, 1986
+Anthozoa	Metridium_senile	isorhiza	atrichous	Bigger, 1988
+Anthozoa	Metridium_senile	isorhiza	basitrichous	Bigger, 1988
+Anthozoa	Metridium_senile	isorhiza	holotrichous	Bigger, 1988
+Anthozoa	Montastraea_cavernosa	isorhiza	holotrichous	
+Anthozoa	Nemanthus_nitidus	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Orbicella_annularis	isorhiza	holotrichous	Thomason & Brown, 1986
+Anthozoa	Palythoa_tuberculosa	isorhiza	holotrichous	Schmidt, 1974
+Anthozoa	Parazoanthus_axinellae	isorhiza	holotrichous	Schmidt, 1974
+Anthozoa	Phellia_gausapata	isorhiza	basitrichous	
+Anthozoa	Porites_astreoides	isorhiza	holotrichous	Thomason & Brown, 1986
+Anthozoa	Porites_lutea	isorhiza	holotrichous	Thomason & Brown, 1986
+Anthozoa	Protanthea_simplex	isorhiza	atrichous	Carlgren, 1940
+Anthozoa	Protanthea_simplex	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Rhodactis_osculifera	isorhiza	holotrichous	Schmidt, 1974
+Anthozoa	Ricordea_florida	isorhiza	holotrichous	Carlgren, 1949
+Anthozoa	Sagartia_troglodytes	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Sagartiogeton_laceratus	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Sagartiogeton_undatus	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Savalia_savaglia	isorhiza	holotrichous	Schmidt, 1974
+Anthozoa	Synhalcurias_elegans	isorhiza	basitrichous	Carlgren, 1940
+Anthozoa	Urticina_felina	isorhiza	basitrichous	
+Cubozoa	Carybdea_brevipedalia	isorhiza	holotrichous	Gershwin, 2006
+Cubozoa	Carybdea_marsupialis	isorhiza	atrichous	Gershwin, 2006
+Cubozoa	Carybdea_marsupialis	isorhiza	holotrichous	Gershwin, 2006
+Cubozoa	Carybdea_rastonii	isorhiza	atrichous	Othman, Eldila, Mustaffa, 1996; Gershwin, 2006
+Hydrozoa	Abietinaria_filicula	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Abietinaria_filicula	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Aegina_citrea	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Aegina_citrea	isorhiza	apotrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Aeginura_grimaldii	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Aeginura_grimaldii	isorhiza	apotrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Aequorea_australis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Aequorea_australis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Aequorea_australis	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Aequorea_conica	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Aequorea_conica	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Aequorea_conica	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Aequorea_forskalea	isorhiza	atrichous	Weill, 1934; Russell, 1970; Bouillon, 1985
+Hydrozoa	Aequorea_forskalea	isorhiza	basitrichous	Weill, 1934; Russell, 1970; Bouillon, 1985
+Hydrozoa	Aequorea_papillata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Aequorea_papillata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Aequorea_papillata	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Agalma_clausi	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Agalma_elegans	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Agalma_okenii	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Aglantha_digitale	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Aglaophenia_elongata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Aglaophenia_harpago	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Aglaophenia_octodonta	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Aglaophenia_pluma	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Aglaophenia_rhynchocarpa	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Aglaophenia_tubiformis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Aglaura_hemistoma	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Aglauropsis_aeora	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Aglauropsis_aeora	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Amphinema_dinema	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Amphinema_dinema	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Amphisbetia_minima	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Amphisbetia_minima	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Amphisbetia_operculata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Amphisbetia_operculata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Amphogona_apicata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Anthohebella_parasitica	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Apolemia_lanosa	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Apolemia_rubriversa	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Astrohydra_japonica	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Astrohydra_japonica	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Athorybia_rosacea	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Botrynema_brucei	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Bouillonactinia_carcinicola	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Bouillonactinia_hooperi	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Branchiocerianthus_imperator	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Branchiocerianthus_imperator	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Brinckmannia_hexactinellidophila	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Brinckmannia_hexactinellidophila	isorhiza	apotrichous	Bouillon et al, 2004
+Hydrozoa	Calycella_syringa	isorhiza	basitrichous	Bouillon & Jangoux, 1984; Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Calycella_syringa	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Calycella_syringa	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Campanularia_hincksii	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Campanularia_hincksii	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Campanularia_lennoxensis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Campanularia_lennoxensis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Campanularia_volubilis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Campanularia_volubilis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Campanulina_pumila	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Campanulina_pumila	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Candelabrum_cocksii	isorhiza	atrichous	Ito & Inoue, 1962; Bouillon et al, 2004
+Hydrozoa	Cladocarpus_integer	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Clava_multicornis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Clavactinia_gallensis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Clavactinia_serrata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_elsaeoswaldae	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_elsaeoswaldae	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_folleata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_folleata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_gracilis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_gracilis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_hemisphaerica	isorhiza	basitrichous	Ostman 1979, 1983; Bouillon et al, 2004
+Hydrozoa	Clytia_hemisphaerica	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_hemisphaerica	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Clytia_hemisphaerica	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Clytia_hummelincki	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_hummelincki	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_linearis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_linearis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_noliformis	isorhiza	merotrichous	Lindner & Migotto 2001
+Hydrozoa	Clytia_noliformis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_noliformis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_paulensis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_paulensis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_xiamenensis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Clytia_xiamenensis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Codonium_prolifera	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Codonium_prolifera	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Codonium_proliferum	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Codonium_proliferum	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Corymorpha_bigelowi	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Corymorpha_bigelowi	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Corymorpha_bigelowi	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Corymorpha_bigelowi	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Corymorpha_glacialis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Corymorpha_glacialis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Corymorpha_groenlandica	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Corymorpha_groenlandica	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Corymorpha_nutans	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Corymorpha_nutans	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Corymorpha_pendula	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Corymorpha_pendula	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Corymorpha_sarsii	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Corymorpha_sarsii	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Coryne_cliffordi	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Coryne_cliffordi	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Coryne_epizoica	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Coryne_epizoica	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Coryne_eximia	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Coryne_eximia	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Coryne_muscoides	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Coryne_muscoides	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Coryne_pintneri	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Coryne_pintneri	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Coryne_pusilla	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Coryne_pusilla	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Coryne_uchidai	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Coryne_uchidai	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Craspedacusta_sinensis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Craspedacusta_sinensis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Craspedacusta_sowerbii	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Craspedacusta_sowerbii	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Crossota_rufobrunnea	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Dentitheca_bidentata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Diphasia_fallax	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Diphasia_fallax	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Dynamena_crisioides	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Dynamena_crisioides	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Dynamena_pumila	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Dynamena_pumila	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Earleria_panicula	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Earleria_panicula	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Ectopleura_crocea	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Ectopleura_crocea	isorhiza	basitrichous	Weill, 1934; Ito & Inoue, 1962; Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Ectopleura_crocea	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Ectopleura_dumortierii	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Ectopleura_dumortierii	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Ectopleura_larynx	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Ectopleura_larynx	isorhiza	basitrichous	Ito & Inoue, 1962; Bouillon et al, 2004
+Hydrozoa	Ectopleura_larynx	isorhiza	basitrichous	Weill, 1934; Bouillon, 1985
+Hydrozoa	Ectopleura_marina	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Ectopleura_marina	isorhiza	basitrichous	Weill, 1934; Ito & Inoue, 1962; Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Ectopleura_marina	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Ectopleura_obypa	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Ectopleura_obypa	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Ectopleura_wrighti	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Ectopleura_wrighti	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_brevistylus	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_brevistylus	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_brevistylus	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_ceylonensis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_ceylonensis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_ceylonensis	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_hexanemalis	isorhiza	atrichous	Bouillon, 1984(p4); Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eirene_hexanemalis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_hexanemalis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_hexanemalis	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_kambara	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_kambara	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_kambara	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_lacteoides	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_lacteoides	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_lacteoides	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_menoni	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_menoni	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_menoni	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_pyramidalis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_pyramidalis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_pyramidalis	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_viridula	isorhiza	atrichous	Russell, 1970; Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eirene_viridula	isorhiza	basitrichous	Russell, 1970; Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eirene_viridula	isorhiza	atrichous	Weill, 1934; Russell, 1970; Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eirene_viridula	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eirene_viridula	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eucheilota_bakeri	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eucheilota_bakeri	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eucheilota_bakeri	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eucheilota_maculata	isorhiza	atrichous	Russell, 1970; Bouillon, 1985
+Hydrozoa	Eucheilota_maculata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eucheilota_maculata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eucheilota_maculata	isorhiza	basitrichous	Werner, 1968b; Russell, 1970; Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eucheilota_maculata	isorhiza	merotrichous	Russell, 1970; Bouillon et al, 2004
+Hydrozoa	Eucheilota_menoni	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eucheilota_menoni	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eucheilota_menoni	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eudendrium_californicum	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eudendrium_capillare	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eudendrium_caraiuru	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eudendrium_carneum	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eudendrium_glomeratum	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eudendrium_racemosum	isorhiza	atrichous	Ito & Inoue 1962 acc to Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eugymnanthea_inquilina	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eugymnanthea_inquilina	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eugymnanthea_inquilina	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eugymnanthea_inquilina	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eugymnanthea_japonica	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eugymnanthea_japonica	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eugymnanthea_japonica	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Euphysa_aurata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Euphysa_aurata	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Euphysa_aurata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Euphysa_aurata	isorhiza	basitrichous	Werner, 1965; Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Euphysa_intermedia	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Euphysa_intermedia	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Euphysa_japonica	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Euphysa_japonica	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Euphysa_japonica	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Euphysa_tentaculata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Euphysa_tentaculata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Euphysa_tentaculata	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eutima_curva	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_curva	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_curva	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_diademata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_diademata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_diademata	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_gegenbauri	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_gegenbauri	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_gegenbauri	isorhiza	merotrichous	Russell, 1970; Bouillon, 1985 acc to Werner
+Hydrozoa	Eutima_gegenbauri	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eutima_gegenbauri	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eutima_gracilis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_gracilis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_gracilis	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eutima_gracilis	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eutima_gracilis	isorhiza	merotrichous	Bouillon, 1985 acc to Werner
+Hydrozoa	Eutima_levuka	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_levuka	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_levuka	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_sapinhoa	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eutima_sapinhoa	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_sapinhoa	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Eutima_sapinhoa	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Eutonina_indicans	isorhiza	atrichous	Werner, 1968b
+Hydrozoa	Eutonina_indicans	isorhiza	atrichous	Werner, 1968b; Bouillon et al, 2004
+Hydrozoa	Eutonina_indicans	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Eutonina_indicans	isorhiza	atrichous	Purcell & Mills, 1988; Bouillon et al, 2004
+Hydrozoa	Eutonina_indicans	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004; Purcell & Mills, 1988 says ABSENT
+Hydrozoa	Eutonina_indicans	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Forskalia_asymmetrica	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Forskalia_edwardsi	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Forskalia_formosa	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Forskalia_tholoides	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Gangliostoma_guangdongensis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Gangliostoma_guangdongensis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Gangliostoma_guangdongensis	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Geryonia_proboscidalis	isorhiza	atrichous	Weill, 1934; Bouillon, 1985
+Hydrozoa	Geryonia_proboscidalis	isorhiza	apotrichous	Bouillon et al, 2004
+Hydrozoa	Gonothyraea_inornata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Gonothyraea_inornata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Gonothyraea_loveni	isorhiza	basitrichous	Ito & Inoue,1962; Ostman, 1982, 1984; Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Gonothyraea_loveni	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Gonothyraea_loveni	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_beanii	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_beanii	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_halecinum	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_halecinum	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_incertus	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_incertus	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_labrosum	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_labrosum	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_lenticulare	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_lenticulare	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_mediterraneum	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_mediterraneum	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_muricatum	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_muricatum	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_pusillum	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Halecium_pusillum	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Haliscera_conica	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Halistemma_rubrum	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hataia_parva	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hataia_parva	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Hebella_venusta	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Helgicirrha_brevistyla	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Helgicirrha_brevistyla	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Helgicirrha_brevistyla	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Helgicirrha_malayensis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Helgicirrha_malayensis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Helgicirrha_malayensis	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Hybocodon_chilensis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hybocodon_chilensis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_canadensis	isorhiza	apotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_canadensis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_canadensis	isorhiza	holotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_circumcincta	isorhiza	apotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_circumcincta	isorhiza	atrichous	Weill, 1934; Werner, 1965; Zumstein & Tardent, 1971; Bode & Flick, 1976; Tardent et al., 1985; Klug et al., 1988; Bouillon et al, 2004
+Hydrozoa	Hydra_circumcincta	isorhiza	holotrichous	Weill, 1934; Werner, 1965; Zumstein & Tardent, 1971; Bode & Flick, 1976; Tardent et al., 1985; Klug et al., 1988; Bouillon et al, 2004
+Hydrozoa	Hydra_hymanae	isorhiza	apotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_hymanae	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_hymanae	isorhiza	holotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_oligactis	isorhiza	apotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_oligactis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_oligactis	isorhiza	holotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_oxycnida	isorhiza	apotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_oxycnida	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_oxycnida	isorhiza	holotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_polymorphus	isorhiza	apotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_polymorphus	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_polymorphus	isorhiza	holotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_robusta	isorhiza	apotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_robusta	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_robusta	isorhiza	holotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_sinensis	isorhiza	apotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_sinensis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_sinensis	isorhiza	holotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_utahensis	isorhiza	apotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_utahensis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_utahensis	isorhiza	holotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_viridissima	isorhiza	apotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_viridissima	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_viridissima	isorhiza	holotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_vulgaris	isorhiza	apotrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_vulgaris	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hydra_vulgaris	isorhiza	holotrichous	Bouillon et al, 2004
+Hydrozoa	Hydractinia_echinata	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Hydractinia_symbiolongicarpus	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Hydrallmania_falcata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hydrallmania_falcata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Hydranthea_margarica	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Hydranthea_margarica	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Hydranthea_margarica	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Hydrissa_sodalis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Idiellana_pristis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Idiellana_pristis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Janaria_mirabilis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Laomedea_calceolifera	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Laomedea_calceolifera	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Laomedea_flexuosa	isorhiza	atrichous	Weill, 1934; Ito & Inoue,1962; Bouillon, 1985; Ostman, 1983; Bouillon et al, 2004
+Hydrozoa	Laomedea_flexuosa	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Laomedea_flexuosa	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Leuckartiara_octona	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Leuckartiara_octona	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Liriope_tetraphylla	isorhiza	atrichous	Weill, 1934; Bouillon, 1985
+Hydrozoa	Liriope_tetraphylla	isorhiza	apotrichous	Bouillon et al, 2004
+Hydrozoa	Lovenella_assimilis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Lovenella_assimilis	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Lovenella_assimilis	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Lovenella_gracilis	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Lovenella_gracilis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Lovenella_gracilis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Lovenella_gracilis	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Lytocarpia_canepa	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Macrorhynchia_philippina	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Macrorhynchia_phoenicea	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Malagazzia_carolinae	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Malagazzia_carolinae	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Marrus_orthocanna	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Melicertum_octocostatum	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Melicertum_octocostatum	isorhiza	basitrichous	Mackie & Mackie (63?); Bouillon et al, 2004
+Hydrozoa	Mitrocomella_brownei	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Mitrocomella_brownei	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Mitrocomella_brownei	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Mitrocomella_niwai	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Mitrocomella_niwai	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Moerisia_inkermanica	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Moerisia_inkermanica	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Nanomia_bijuga	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Nemalecium_lighti	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Nemalecium_lighti	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Nemertesia_antennina	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Neoturris_breviconis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Neoturris_breviconis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Obelia_bidentata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Obelia_bidentata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Obelia_dichotoma	isorhiza	atrichous	Ostman, 1979; Bouillon et al, 2004
+Hydrozoa	Obelia_dichotoma	isorhiza	basitrichous	Ostman, 1983; Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Obelia_dichotoma	isorhiza	atrichous	Ostman 1983; Bouillon et al, 2004
+Hydrozoa	Obelia_dichotoma	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Obelia_geniculata	isorhiza	basitrichous	Weill 1934; Bouillon et al, 2004
+Hydrozoa	Obelia_geniculata	isorhiza	atrichous	Ostman, 1982, 1983; Bouillon et al, 2004
+Hydrozoa	Obelia_geniculata	isorhiza	basitrichous	Weill, 1934; Ostman, 1983; Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Obelia_geniculata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Obelia_longissima	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Obelia_longissima	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Octophialucium_indicum	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Octophialucium_indicum	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Octophialucium_medium	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Octophialucium_medium	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Odessia_maeotica	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Odessia_maeotica	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Olindias_formosus	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Olindias_formosus	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Olindias_muelleri	isorhiza	atrichous	Bouillon, 1985; 2004
+Hydrozoa	Olindias_muelleri	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Olindias_sambaquiensis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Olindias_sambaquiensis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Opercularella_lacerata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Opercularella_lacerata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Orthopyxis_caliculata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Orthopyxis_caliculata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Orthopyxis_crenata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Orthopyxis_crenata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Orthopyxis_everta	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Orthopyxis_everta	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Orthopyxis_integra	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Orthopyxis_integra	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Orthopyxis_mianzani	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Orthopyxis_mianzani	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Orthopyxis_sargassicola	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Orthopyxis_sargassicola	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Pantachogon_haeckeli	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Pennaria_disticha	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Phialella_quadrata	isorhiza	basitrichous	Russell, 1970; Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Physalia_physalis	isorhiza	atrichous	Weill 1930; Bouillon et al, 2004
+Hydrozoa	Physalia_physalis	isorhiza	atrichous	Weill 1930; Bouillon et al, 2004
+Hydrozoa	Physalia_physalis	isorhiza	holotrichous	Hessinger & Ford, 1988
+Hydrozoa	Physalia_physalis	isorhiza	holotrichous	Hessinger & Ford, 1988
+Hydrozoa	Plumularia_duseni	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Plumularia_filicaulis	isorhiza	atrichous	Ito & Inoue,1962; Bouillon, 1985
+Hydrozoa	Plumularia_habereri	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Plumularia_hyalina	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Plumularia_lagenifera	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Plumularia_margaretta	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Plumularia_mooreana	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Plumularia_obliqua	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Plumularia_pulchella	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Plumularia_setacea	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Plumularia_setaceoides	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Plumularia_spiralis	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Plumularia_strictocarpa	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Podocoryna_borealis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Podocoryna_carnea	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Podocoryna_exigua	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Podocoryna_hayamaensis	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Podocoryna_pruvoti	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Polyorchis_haplus	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Polyorchis_haplus	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Polyorchis_penicillatus	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Polyorchis_penicillatus	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Porpita_porpita	isorhiza	atrichous	Bouillon, 1985
+Hydrozoa	Ralpharia_gorgoniae	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Ralpharia_gorgoniae	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Rhacostoma_atlanticum	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Rhacostoma_atlanticum	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Rhacostoma_atlanticum	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Rhizocaulus_verticillatus	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Rhizocaulus_verticillatus	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Rhopalonema_velatum	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Salacia_desmoides	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Salacia_desmoides	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Sarsia_apicula	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Sarsia_apicula	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Sarsia_lovenii	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Sarsia_lovenii	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Sarsia_princeps	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Sarsia_princeps	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Sarsia_striata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Sarsia_striata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Sarsia_tubulosa	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Sarsia_tubulosa	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Sarsia_tubulosa	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004; Purcell & Mills, 1988 says ABSENT
+Hydrozoa	Schuchertinia_altispina	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Schuchertinia_conchicola	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Schuchertinia_milleri	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Scolionema_suvaense	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Scolionema_suvaense	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Scrippsia_pacifica	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Scrippsia_pacifica	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Sertularella_distans	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Sertularella_distans	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Sertularia_argentea	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Sertularia_argentea	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Sertularia_cupressina	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Sertularia_cupressina	isorhiza	basitrichous	Weill, 1934; Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Sertularia_marginata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Sertularia_marginata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Sertularia_moluccana	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Sertularia_moluccana	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Sertularia_perpusilla	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Sertularia_perpusilla	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Sertularia_tumida	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Sertularia_tumida	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Sertularia_turbinata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Sertularia_turbinata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Silicularia_rosea	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Silicularia_rosea	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Slabberia_halterata	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Slabberia_halterata	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Solmissus_marshalli	isorhiza	atrichous	Bouillon, 1985; Purcell & Mills, 1988
+Hydrozoa	Solmissus_marshalli	isorhiza	apotrichous	Purcell & Mills, 1988; Bouillon et al, 2004
+Hydrozoa	Solmundella_bitentaculata	isorhiza	apotrichous	Bouillon, 1985
+Hydrozoa	Sphaerocoryne_agassizii	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Stauridiosarsia_gemmifera	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Stauridiosarsia_gemmifera	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Stauridiosarsia_nipponica	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Stauridiosarsia_nipponica	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Stauridiosarsia_ophiogaster	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Stauridiosarsia_ophiogaster	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Stauridiosarsia_producta	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Stauridiosarsia_producta	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Stauridiosarsia_reesi	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Stauridiosarsia_reesi	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Staurodiscus_gotoi	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Sympagohydra_tuuli	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Taxella_gracilicaulus	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Tetraplatia_volitans	isorhiza	atrichous	Collins et al. 2006
+Hydrozoa	Tetraplatia_volitans	isorhiza	atrichous	
+Hydrozoa	Thuiaria_thuja	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Thuiaria_thuja	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Tiaricodon_coeruleus	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Tiaropsidium_kelseyi	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Tiaropsis_multicirrata	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Tima_formosa	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Tima_formosa	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Tima_formosa	isorhiza	merotrichous	Bouillon et al, 2004
+Hydrozoa	Tubularia_indivisa	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Tubularia_indivisa	isorhiza	basitrichous	Bouillon et al, 2004
+Hydrozoa	Varitentacula_yantaiensis	isorhiza	atrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Velella_velella	isorhiza	atrichous	Bouillon, 1985; Purcell et al, 1988
+Hydrozoa	Zanclea_costata	isorhiza	atrichous	Weill, 1934; Ito & Inoue, 1962
+Hydrozoa	Zyzzyzus_warreni	isorhiza	atrichous	Bouillon et al, 2004
+Hydrozoa	Zyzzyzus_warreni	isorhiza	basitrichous	Bouillon, 1985; Bouillon et al, 2004
+Hydrozoa	Zyzzyzus_warreni	isorhiza	basitrichous	Bouillon et al, 2004
+Scyphozoa	Atolla_vanhoeffeni	isorhiza	holotrichous	Russell, 1970
+Scyphozoa	Atolla_wyvillei	isorhiza	holotrichous	Russell, 1970
+Scyphozoa	Aurelia_aurita	isorhiza	atrichous	Russell,1970; Calder, 1971; Calder, 1983; Gold et al 2019
+Scyphozoa	Aurelia_aurita	isorhiza	homotrichous	Calder, 1977
+Scyphozoa	Cassiopea_andromeda	isorhiza	homotrichous	Heins et al. 2015
+Scyphozoa	Cassiopea_andromeda	isorhiza	homotrichous	Heins et al. 2015
+Scyphozoa	Cassiopea_ornata	isorhiza	homotrichous	Lampert, 2016
+Scyphozoa	Cassiopea_ornata	isorhiza	homotrichous	Lampert, 2016
+Scyphozoa	Cassiopea_xamachana	isorhiza	homotrichous	Ames et al 2020
+Scyphozoa	Cassiopea_xamachana	isorhiza	homotrichous	Ames et al 2020
+Scyphozoa	Catostylus_mosaicus	isorhiza	holotrichous	Peach, M. B., & Pitt, K. A. (2005). Morphology of the nematocysts of the medusae of two scyphozoans, Catostylus mosaicus and Phyllorhiza punctata (Rhizostomeae): implications for capture of prey. Invertebrate Biology, 124(2), 98-108.
+Scyphozoa	Chrysaora_hysoscella	isorhiza	atrichous	Russell,1970; Calder, 1983
+Scyphozoa	Chrysaora_quinquecirrha	isorhiza	atrichous	Russell, 1970; Calder, 1971; Calder, 1983; Hessinger, 1988; Klug et al 1988
+Scyphozoa	Chrysaora_quinquecirrha	isorhiza	homotrichous	Calder, 1977
+Scyphozoa	Chrysaora_quinquecirrha	isorhiza	homotrichous	Calder, 1977
+Scyphozoa	Chrysaora_quinquecirrha	isorhiza	holotrichous	Russell, 1970; Calder, 1971; Calder, 1983; Hessinger, 1988; Klug et al 1988
+Scyphozoa	Cyanea_capillata	isorhiza	atrichous	Russell, 1970; Calder, 1971; Calder, 1983
+Scyphozoa	Cyanea_capillata	isorhiza	homotrichous	Calder, 1977
+Scyphozoa	Cyanea_capillata	isorhiza	homotrichous	Calder, 1977
+Scyphozoa	Cyanea_capillata	isorhiza	homotrichous	Calder, 1977
+Scyphozoa	Cyanea_capillata	isorhiza	holotrichous	Russell, 1970
+Scyphozoa	Nausithoe_atlantica	isorhiza	holotrichous	Russell, 1970
+Scyphozoa	Pelagia_noctiluca	isorhiza	atrichous	Russell,1970; Calder, 1983
+Scyphozoa	Pelagia_noctiluca	isorhiza	holotrichous	Russell, 1970
+Scyphozoa	Periphylla_periphylla	isorhiza	holotrichous	Russell, 1970
+Scyphozoa	Phyllorhiza_punctata	isorhiza	holotrichous	Peach, M. B., & Pitt, K. A. (2005). Morphology of the nematocysts of the medusae of two scyphozoans, Catostylus mosaicus and Phyllorhiza punctata (Rhizostomeae): implications for capture of prey. Invertebrate Biology, 124(2), 98-108.
+Scyphozoa	Phyllorhiza_punctata	isorhiza	holotrichous	Peach, M. B., & Pitt, K. A. (2005). Morphology of the nematocysts of the medusae of two scyphozoans, Catostylus mosaicus and Phyllorhiza punctata (Rhizostomeae): implications for capture of prey. Invertebrate Biology, 124(2), 98-108.
+Scyphozoa	Rhopilema_verrilli	isorhiza	atrichous	Calder, 1973; Calder, 1983
+Scyphozoa	Rhopilema_verrilli	isorhiza	homotrichous	Calder, 1977
+Scyphozoa	Stomolophus_meleagris	isorhiza	holotrichous	Calder, 1983
+Scyphozoa	Stomolophus_meleagris	isorhiza	holotrichous	Calder, 1983
+Staurozoa	Manania_gwilliami	isorhiza	atrichous	Larson & Fautin, 1989

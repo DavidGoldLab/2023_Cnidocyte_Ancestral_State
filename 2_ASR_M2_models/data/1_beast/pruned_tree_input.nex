@@ -1,0 +1,1829 @@
+#NEXUS
+[R-package PHYTOOLS, Mon Apr 27 13:27:09 2020]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 908;
+	TAXLABELS
+		Abietinaria_abietina
+		Abietinaria_filicula
+		Abyssoprimnoa_gemina
+		Acanthogorgia_armata
+		Acanthopathes_thyoides
+		Acropora_cervicornis
+		Acropora_cytherea
+		Acropora_digitifera
+		Acropora_humilis
+		Acropora_hyacinthus
+		Acropora_muricata
+		Acropora_palmata
+		Acropora_robusta
+		Acrozoanthus_australiae
+		Actinauge_richardi
+		Actinernus_elongatus
+		Actinia_fragacea
+		Actinia_tenebrosa
+		Actinoscyphia_plebeia
+		Actinostephanus_haeckeli
+		Actinostola_crassicornis
+		Actinostola_georgiana
+		Actinothoe_sphyrodeta
+		Adamsia_palliata
+		Adelopora_crassilabrum
+		Aegina_citrea
+		Aeginura_grimaldii
+		Aequorea_australis
+		Aequorea_conica
+		Aequorea_forskalea
+		Aequorea_papillata
+		Aequorea_victoria
+		Agalma_clausi
+		Agalma_elegans
+		Agalma_okenii
+		Agaricia_agaricites
+		Agaricia_fragilis
+		Agaricia_humilis
+		Agaricia_lamarcki
+		Agaricia_tenuifolia
+		Aglantha_digitale
+		Aglaophenia_elongata
+		Aglaophenia_harpago
+		Aglaophenia_octodonta
+		Aglaophenia_pluma
+		Aglaophenia_rhynchocarpa
+		Aglaophenia_tubiformis
+		Aglaura_hemistoma
+		Aglauropsis_aeora
+		Aiptasia_couchii
+		Aiptasia_mutabilis
+		Aiptasiogeton_hyalinus
+		Alaskagorgia_aleutiana
+		Alatina_moseri
+		Alicia_mirabilis
+		Alicia_sansibarensis
+		Allantactis_parasitica
+		Alvinactis_chessi
+		Amphimedon_queenslandica
+		Amphinema_dinema
+		Amphisbetia_minima
+		Amphisbetia_operculata
+		Amphogona_apicata
+		Amplexidiscus_fenestrafer
+		Andvakia_boninensis
+		Andvakia_discipulorum
+		Anemonia_viridis
+		Antarctoscyphus_spiralis
+		Antennella_ansini
+		Antennella_kiwiana
+		Antennella_secundaria
+		Anthemiphyllia_spinifera
+		Anthohebella_parasitica
+		Antholoba_achates
+		Anthopleura_artemisia
+		Anthopleura_atodai
+		Anthopleura_elegantissima
+		Anthopleura_handi
+		Anthopleura_krebsi
+		Anthopleura_kurogane
+		Anthopleura_rosea
+		Anthosactis_janmayeni
+		Anthostella_stephensoni
+		Anthothoe_chilensis
+		Antillogorgia_bipinnata
+		Antipathes_atlantica
+		Antipathes_galapagensis
+		Antipathes_griggi
+		Antipathozoanthus_macaronesicus
+		Antipodactis_awii
+		Aphanipathes_verticillata
+		Apolemia_lanosa
+		Apolemia_rubriversa
+		Arntzia_gracilis
+		Astreopora_myriophthalma
+		Astrohydra_japonica
+		Asyncoryne_ryniensis
+		Athorybia_rosacea
+		Atolla_vanhoeffeni
+		Atolla_wyvillei
+		Aulactinia_incubans
+		Aulactinia_marplatensis
+		Aulactinia_stella
+		Aulactinia_vancouverensis
+		Aulactinia_veratra
+		Aulactinia_verrucosa
+		Aurelia_aurita
+		Aurelia_labiata
+		Aurelia_limbata
+		Balanophyllia_regia
+		Bargmannia_amoena
+		Bargmannia_elongata
+		Bartholomea_annulata
+		Bathypathes_patula
+		Bathyphellia_australis
+		Bellactis_ilkalyseae
+		Bergia_catenularis
+		Bergia_puertoricense
+		Billardia_subrufa
+		Bimeria_vestita
+		Blackfordia_polytentaculata
+		Blackfordia_virginica
+		Bolocera_kerguelensis
+		Boloceroides_mcmurrichi
+		Bonneviella_regia
+		Botrynema_brucei
+		Bougainvillia_carolinensis
+		Bougainvillia_fulva
+		Bougainvillia_muscus
+		Bougainvillia_triestina
+		Bouillonactinia_carcinicola
+		Bouillonactinia_hooperi
+		Branchiocerianthus_imperator
+		Briareum_asbestinum
+		Brinckmannia_hexactinellidophila
+		Bullagummizoanthus_emilyacadiaarum
+		Bunodactis_reynaudi
+		Bunodeopsis_globulifera
+		Bunodosoma_grande
+		Calliactis_japonica
+		Calliactis_parasitica
+		Calliactis_polypus
+		Calliactis_tricolor
+		Callogorgia_euthyeia
+		Callogorgia_korema
+		Callogorgia_medialis
+		Calvadosia_campanulata
+		Calvadosia_corbini
+		Calvadosia_cruciformis
+		Calvadosia_cruxmelitensis
+		Calvadosia_vanhoeffeni
+		Calycella_syringa
+		Calyptrophora_microdentata
+		Calyptrophora_persephone
+		Calyptrophora_wyvillei
+		Campanularia_hincksii
+		Campanularia_lennoxensis
+		Campanularia_volubilis
+		Campanulina_pumila
+		Candelabrum_cocksii
+		Capnea_georgiana
+		Carukia_barnesi
+		Carybdea_arborifera
+		Carybdea_branchi
+		Carybdea_brevipedalia
+		Carybdea_marsupialis
+		Carybdea_rastonii
+		Carybdea_xaymacana
+		Caryophyllia_inornata
+		Cassiopea_andromeda
+		Cassiopea_ornata
+		Cassiopea_xamachana
+		Catalaphyllia_jardinei
+		Catostylus_mosaicus
+		Caulastraea_furcata
+		Cereus_herpetodes
+		Cereus_pedunculatus
+		Ceriantheomorphe_brasiliensis
+		Ceriantheopsis_americana
+		Cerianthus_membranaceus
+		Charisea_saxicola
+		Chironex_fleckeri
+		Chironex_yamaguchii
+		Chiropsalmus_quadrumanus
+		Chrysaora_fuscescens
+		Chrysaora_helvola
+		Chrysaora_hysoscella
+		Chrysaora_melanaster
+		Chrysaora_quinquecirrha
+		Chrysogorgia_chryseis
+		Chrysogorgia_monticola
+		Chrysogorgia_pinnata
+		Chuniphyes_multidentata
+		Cirrhipathes_anguina
+		Cladocarpus_integer
+		Cladocora_caespitosa
+		Cladocoryne_floccosa
+		Cladonema_radiatum
+		Clava_multicornis
+		Clavactinia_gallensis
+		Clavactinia_serrata
+		Clytia_elsaeoswaldae
+		Clytia_folleata
+		Clytia_gracilis
+		Clytia_hemisphaerica
+		Clytia_hummelincki
+		Clytia_linearis
+		Clytia_noliformis
+		Clytia_paulensis
+		Clytia_xiamenensis
+		Codonium_prolifera
+		Codonium_proliferum
+		Colpophyllia_natans
+		Conopora_candelabrum
+		Convexella_magelhaenica
+		Copula_sivickisi
+		Corallimorphus_pilatus
+		Corallimorphus_profundus
+		Corallizoanthus_tsukaharai
+		Cordagalma_ordinatum
+		Cordylophora_caspia
+		Corymorpha_bigelowi
+		Corymorpha_glacialis
+		Corymorpha_groenlandica
+		Corymorpha_nutans
+		Corymorpha_pendula
+		Corymorpha_sarsii
+		Corynactis_californica
+		Corynactis_viridis
+		Coryne_cliffordi
+		Coryne_epizoica
+		Coryne_eximia
+		Coryne_muscoides
+		Coryne_pintneri
+		Coryne_pusilla
+		Coryne_uchidai
+		Crambionella_orsini
+		Craseoa_lathetica
+		Craspedacusta_sinensis
+		Craspedacusta_sowerbii
+		Craterolophus_convolvulus
+		Cricophorus_nutrix
+		Crispatotrochus_rugosus
+		Crossota_rufobrunnea
+		Crypthelia_cryptotrema
+		Crypthelia_trophostega
+		Cyananthea_hourdezi
+		Cyanea_capillata
+		Cyanea_nozakii
+		Cyclohelia_lamellata
+		Cyphastrea_ocellina
+		Dactylanthus_antarcticus
+		Dasystenella_acanthina
+		Dendrobathypathes_boutillieri
+		Dendrogyra_cylindrus
+		Dendronephthya_sinaiensis
+		Dendropathes_bacotaylorae
+		Dentitheca_bidentata
+		Depastromorpha_africana
+		Desmophyllum_dianthus
+		Desmophyllum_pertusum
+		Diadumene_cincta
+		Diadumene_leucolena
+		Diadumene_lineata
+		Dichocoenia_stokesii
+		Dicoryne_conybearei
+		Diphasia_fallax
+		Diploria_labyrinthiformis
+		Dipsastraea_favus
+		Discosoma_neglecta
+		Discosoma_nummiforme
+		Distichopora_anceps
+		Distichopora_asulcata
+		Distichopora_borealis
+		Distichopora_irregularis
+		Distichopora_robusta
+		Distichopora_violacea
+		Drymonema_dalmatinum
+		Drymonema_larsoni
+		Dynamena_crisioides
+		Dynamena_pumila
+		Earleria_panicula
+		Echinophyllia_orpheensis
+		Echinopora_lamellosa
+		Ectopleura_crocea
+		Ectopleura_dumortierii
+		Ectopleura_larynx
+		Ectopleura_marina
+		Ectopleura_obypa
+		Ectopleura_wrighti
+		Edwardsia_elegans
+		Edwardsia_japonica
+		Edwardsia_timida
+		Edwardsianthus_gilbertensis
+		Eirene_brevistylus
+		Eirene_ceylonensis
+		Eirene_hexanemalis
+		Eirene_kambara
+		Eirene_lacteoides
+		Eirene_menoni
+		Eirene_pyramidalis
+		Eirene_viridula
+		Elatopathes_abietina
+		Eleutheria_dichotoma
+		Eleutherobia_aurea
+		Ellisella_schmitti
+		Epiactis_australiensis
+		Epiactis_fernaldi
+		Epiactis_georgiana
+		Epiactis_handi
+		Epiactis_japonica
+		Epiactis_lisbethae
+		Epiactis_prolifera
+		Epiactis_ritteri
+		Epiactis_thompsoni
+		Epizoanthus_arenaceus
+		Epizoanthus_couchii
+		Epizoanthus_fiordicus
+		Epizoanthus_illoricatus
+		Epizoanthus_lindhali
+		Epizoanthus_paguricola
+		Epizoanthus_papillosus
+		Epizoanthus_scotinus
+		Epizoanthus_vagus
+		Errinopora_nanneca
+		Erythropodium_caribaeorum
+		Eucheilota_bakeri
+		Eucheilota_maculata
+		Eucheilota_menoni
+		Eudendrium_californicum
+		Eudendrium_capillare
+		Eudendrium_caraiuru
+		Eudendrium_carneum
+		Eudendrium_glomeratum
+		Eudendrium_racemosum
+		Eugymnanthea_inquilina
+		Eugymnanthea_japonica
+		Euphyllia_ancora
+		Euphysa_aurata
+		Euphysa_intermedia
+		Euphysa_japonica
+		Euphysa_tentaculata
+		Eusmilia_fastigiata
+		Eutima_curva
+		Eutima_diademata
+		Eutima_gegenbauri
+		Eutima_gracilis
+		Eutima_levuka
+		Eutima_sapinhoa
+		Eutonina_indicans
+		Exaiptasia_diaphana
+		Exocoelactis_actinostoloides
+		Fabienna_sphaerica
+		Fannyella_rossii
+		Fannyella_spinosa
+		Favia_fragum
+		Favites_abdita
+		Favites_valenciennesii
+		Flabellum_deludens
+		Forskalia_asymmetrica
+		Forskalia_edwardsi
+		Forskalia_formosa
+		Forskalia_tholoides
+		Fungiacyathus_marenzelleri
+		Galatheanthemum_profundale
+		Galaxea_astreata
+		Galaxea_fascicularis
+		Gangliostoma_guangdongensis
+		Gardineria_hawaiiensis
+		Gardineria_paradoxa
+		Gardineroseris_planulata
+		Garveia_annulata
+		Garveia_grisea
+		Geryonia_proboscidalis
+		Glyphoperidium_bursa
+		Gonactinia_prolifera
+		Goniastrea_retiformis
+		Goniopora_columna
+		Goniopora_gracilis
+		Goniopora_pedunculata
+		Goniopora_planulata
+		Goniopora_stokesi
+		Gonothyraea_inornata
+		Gonothyraea_loveni
+		Gymnopraia_lapislazula
+		Gyractis_sesere
+		Halcampa_duodecimcirrata
+		Halcampoides_purpureus
+		Halcurias_pilatus
+		Halecium_beanii
+		Halecium_halecinum
+		Halecium_incertus
+		Halecium_labrosum
+		Halecium_lenticulare
+		Halecium_mediterraneum
+		Halecium_muricatum
+		Halecium_pusillum
+		Haliclystus_antarcticus
+		Haliclystus_borealis
+		Haliclystus_californiensis
+		Haliclystus_inabai
+		Haliclystus_octoradiatus
+		Haliclystus_sanjuanensis
+		Haliclystus_stejnegeri
+		Haliclystus_tenuis
+		Haliscera_conica
+		Halistemma_rubrum
+		Haloclava_producta
+		Halopteris_carinata
+		Halopteris_catharina
+		Halopteris_diaphana
+		Halopteris_liechtensternii
+		Halopteris_minuta
+		Harenactis_argentina
+		Hataia_parva
+		Hebella_venusta
+		Helgicirrha_brevistyla
+		Helgicirrha_malayensis
+		Helicogorgia_flagellata
+		Heliofungia_actiniformis
+		Hemicorallium_ducale
+		Heptaprimnoa_patagonica
+		Heteractis_aurora
+		Heteractis_magnifica
+		Heteropolypus_ritteri
+		Hippopodius_hippopus
+		Hormathia_armata
+		Hormathia_lacunifera
+		Hormathia_pectinata
+		Hormosoma_scotti
+		Hurlizoanthus_parrishi
+		Hybocodon_chilensis
+		Hybocodon_prolifer
+		Hydnophora_exesa
+		Hydnophora_rigida
+		Hydra_canadensis
+		Hydra_circumcincta
+		Hydra_hymanae
+		Hydra_oligactis
+		Hydra_oxycnida
+		Hydra_polymorphus
+		Hydra_robusta
+		Hydra_sinensis
+		Hydra_utahensis
+		Hydra_viridissima
+		Hydra_vulgaris
+		Hydractinia_echinata
+		Hydractinia_symbiolongicarpus
+		Hydrallmania_falcata
+		Hydranthea_margarica
+		Hydrichthella_epigorgia
+		Hydrichthys_boycei
+		Hydrissa_sodalis
+		Hydrodendron_mirabile
+		Hydrozoanthus_gracilis
+		Hydrozoanthus_tunicans
+		Idiellana_pristis
+		Ifalukella_yanii
+		Inferiolabiata_lowei
+		Iridogorgia_magnispiralis
+		Iridogorgia_splendens
+		Isactinernus_quadrilobatus
+		Isactinia_olivacea
+		Isanthus_capensis
+		Isarachnanthus_maderensis
+		Isarachnanthus_nocturnus
+		Isaurus_tuberculatus
+		Isidoides_armata
+		Isoparactis_fabiani
+		Isoparactis_ferax
+		Isopora_palifera
+		Isosicyonis_alba
+		Isosicyonis_striata
+		Isotealia_antarctica
+		Isozoanthus_giganteus
+		Janaria_mirabilis
+		Jasonactis_erythraios
+		Kadosactis_antarctica
+		Kauluzoanthus_kerbyi
+		Kephyes_ovata
+		Kirchenpaueria_pinnata
+		Koellikerina_fasciculata
+		Kulamanamana_haumeaae
+		Lafoea_dumosa
+		Laomedea_calceolifera
+		Laomedea_flexuosa
+		Laviactis_lucida
+		Lensia_conoidea
+		Lepidopora_polystichopora
+		Lepidotheca_chauliostylus
+		Leptastrea_bottae
+		Leptogorgia_capverdensis
+		Leptogorgia_chilensis
+		Leptohelia_flexibilis
+		Leptohelia_microstylus
+		Leptopsammia_pruvoti
+		Leptoria_phrygia
+		Letepsammia_formosissima
+		Leuckartiara_octona
+		Lillipathes_wingi
+		Lilyopsis_fluoracantha
+		Limnocnida_tanganjicae
+		Lipkea_ruspoliana
+		Liponema_brevicorne
+		Liponema_multiporum
+		Liriope_tetraphylla
+		Lizzia_blondina
+		Lobactis_scutaria
+		Lobophyllia_hemprichii
+		Lovenella_assimilis
+		Lovenella_gracilis
+		Lucernaria_bathyphila
+		Lucernaria_janetae
+		Lucernaria_quadricornis
+		Lucernaria_sainthilairei
+		Lytocarpia_canepa
+		Macrodactyla_doreensis
+		Macrorhynchia_philippina
+		Macrorhynchia_phoenicea
+		Madracis_myriaster
+		Madracis_pharensis
+		Madrepora_oculata
+		Maeotias_marginata
+		Magallana_gigas
+		Malagazzia_carolinae
+		Manania_gwilliami
+		Manania_uchidai
+		Manicina_areolata
+		Marrus_orthocanna
+		Mastigias_papua
+		Meandrina_meandrites
+		Melicertum_octocostatum
+		Melithaea_ochracea
+		Merulina_ampliata
+		Merulina_scabricula
+		Mesozoanthus_fossii
+		Metafannyella_kuekenthali
+		Metallogorgia_macrospina
+		Metallogorgia_melanotrichos
+		Metedwardsia_akkeshi
+		Metridium_senile
+		Microzoanthus_kagerou
+		Microzoanthus_occultus
+		Mirostenella_articulata
+		Mitrocomella_brownei
+		Mitrocomella_niwai
+		Modeeria_rotunda
+		Moerisia_inkermanica
+		Monobrachium_parasitum
+		Monostaechas_quadridens
+		Montastraea_cavernosa
+		Montipora_capitata
+		Montipora_digitata
+		Montipora_dilatata
+		Montipora_flabellata
+		Montipora_patula
+		Montipora_verrilli
+		Morbakka_virulenta
+		Muggiaea_atlantica
+		Mussa_angulosa
+		Mycedium_elephantotus
+		Mycetophyllia_aliciae
+		Nanomia_bijuga
+		Nanozoanthus_harenaceus
+		Narella_bowersi
+		Narella_clavata
+		Narella_dichotoma
+		Narella_versluysi
+		Nausithoe_atlantica
+		Nausithoe_rubra
+		Nectadamas_diomedeae
+		Nectopyramis_natans
+		Nemalecium_lighti
+		Nemanthus_nitidus
+		Nematostella_vectensis
+		Nemertesia_antennina
+		Nemopilema_nomurai
+		Nemopsis_bachei
+		Neoturris_breviconis
+		Obelia_bidentata
+		Obelia_dichotoma
+		Obelia_geniculata
+		Obelia_longissima
+		Octophialucium_indicum
+		Octophialucium_medium
+		Oculina_patagonica
+		Odessia_maeotica
+		Olindias_formosus
+		Olindias_muelleri
+		Olindias_sambaquiensis
+		Onogorgia_nodosa
+		Opercularella_lacerata
+		Ophidiogorgia_kuekenthali
+		Orbicella_annularis
+		Orbicella_faveolata
+		Orbicella_franksi
+		Orthopyxis_caliculata
+		Orthopyxis_crenata
+		Orthopyxis_everta
+		Orthopyxis_integra
+		Orthopyxis_mianzani
+		Orthopyxis_sargassicola
+		Ostiactis_pearseae
+		Oswaldella_grandis
+		Oswaldella_laertesi
+		Oswaldella_shetlandica
+		Oswaldella_stepanjantsae
+		Oulactis_muscosa
+		Oulastrea_crispata
+		Pachycerianthus_fimbriatus
+		Pachycerianthus_magnus
+		Pachycordyle_pusilla
+		Palythoa_caribaeorum
+		Palythoa_grandiflora
+		Palythoa_grandis
+		Palythoa_heliodiscus
+		Palythoa_mizigama
+		Palythoa_mutuki
+		Palythoa_tuberculosa
+		Palythoa_umbrosa
+		Palythoa_variabilis
+		Pantachogon_haeckeli
+		Paraconopora_anthohelia
+		Paracyathus_pulchellus
+		Paragorgia_arborea
+		Paragorgia_johnsoni
+		Paramuricea_biscaya
+		Paramuricea_placomus
+		Paranthus_niveus
+		Parasphaerasclera_aurea
+		Parastenella_spinosa
+		Parazoanthus_anguicomus
+		Parazoanthus_axinellae
+		Parazoanthus_capensis
+		Parazoanthus_cutressi
+		Parazoanthus_elongatus
+		Parazoanthus_gracilis
+		Parazoanthus_juanfernandezii
+		Parazoanthus_swiftii
+		Pavona_frondifera
+		Pavona_varians
+		Peachia_cylindrica
+		Pectinia_alcicornis
+		Pelagia_noctiluca
+		Pennaria_disticha
+		Perarella_schneideri
+		Periphylla_periphylla
+		Perissogorgia_monile
+		Perissogorgia_vitrea
+		Phacellophora_camtschatica
+		Phanopathes_expansa
+		Phellia_exlex
+		Phellia_gausapata
+		Phialella_quadrata
+		Phyllangia_americana
+		Phyllorhiza_punctata
+		Phymanthus_crucifer
+		Phymanthus_loligo
+		Physalia_physalis
+		Physogyra_lichtensteini
+		Physophora_hydrostatica
+		Platygyra_daedalea
+		Platygyra_sinensis
+		Platyzoanthus_mussoides
+		Pleurocorallium_porcellanum
+		Pliobothrus_echinatus
+		Plumarella_delicatissima
+		Plumarella_diadema
+		Plumarella_undulata
+		Plumularia_duseni
+		Plumularia_filicaulis
+		Plumularia_habereri
+		Plumularia_hyalina
+		Plumularia_lagenifera
+		Plumularia_margaretta
+		Plumularia_mooreana
+		Plumularia_obliqua
+		Plumularia_pulchella
+		Plumularia_setacea
+		Plumularia_setaceoides
+		Plumularia_spiralis
+		Plumularia_strictocarpa
+		Pocillopora_damicornis
+		Pocillopora_meandrina
+		Podocoryna_borealis
+		Podocoryna_carnea
+		Podocoryna_exigua
+		Podocoryna_hayamaensis
+		Podocoryna_pruvoti
+		Podocorynoides_minima
+		Polycyathus_muellerae
+		Polyorchis_haplus
+		Polyorchis_penicillatus
+		Porites_astreoides
+		Porites_branneri
+		Porites_compressa
+		Porites_cylindrica
+		Porites_divaricata
+		Porites_lobata
+		Porites_lutea
+		Porites_nigrescens
+		Porites_porites
+		Porpita_porpita
+		Praya_dubia
+		Preactis_millardae
+		Primnoa_pacifica
+		Primnoeides_kuekenthali
+		Primnoeides_sertularoides
+		Primnoella_antarctica
+		Primnoella_chilensis
+		Primnoella_divaricata
+		Primnoella_scotiae
+		Proboscidactyla_flavicirrata
+		Proboscidactyla_ornata
+		Protanthea_simplex
+		Pseudochrysogorgia_bellona
+		Pseudocrypthelia_pachypoma
+		Pseudodiploria_clivosa
+		Pseudodiploria_strigosa
+		Ptychogena_crocea
+		Pycnotheca_mirabilis
+		Radicipes_gracilis
+		Ralpharia_gorgoniae
+		Rathkea_octopunctata
+		Relicanthus_daphneae
+		Rhacostoma_atlanticum
+		Rhizocaulus_verticillatus
+		Rhizogeton_nudus
+		Rhizophysa_eysenhardti
+		Rhizophysa_filiformis
+		Rhizorhagium_arenosum
+		Rhizosmilia_maculata
+		Rhodactis_osculifera
+		Rhodactis_rhodostoma
+		Rhodaniridogorgia_fragilis
+		Rhombopsammia_niphada
+		Rhopalonema_velatum
+		Rhopilema_esculentum
+		Rhopilema_verrilli
+		Ricordea_florida
+		Rosacea_flaccida
+		Sagartia_elegans
+		Sagartia_ornata
+		Sagartia_troglodytes
+		Sagartiogeton_laceratus
+		Sagartiogeton_undatus
+		Salacia_desmoides
+		Sanderia_malayensis
+		Sarcophyton_trocheliophorum
+		Sarsia_apicula
+		Sarsia_lovenii
+		Sarsia_princeps
+		Sarsia_striata
+		Sarsia_tubulosa
+		Savalia_savaglia
+		Schizopathes_affinis
+		Schizotricha_crassa
+		Schizotricha_falcata
+		Schizotricha_nana
+		Schizotricha_turqueti
+		Schuchertinia_altispina
+		Schuchertinia_conchicola
+		Schuchertinia_milleri
+		Scolionema_suvaense
+		Scrippsia_pacifica
+		Sertularella_africana
+		Sertularella_diaphana
+		Sertularella_distans
+		Sertularella_ellisii
+		Sertularella_gayi
+		Sertularella_mediterranea
+		Sertularella_sanmatiasensis
+		Sertularelloides_cylindritheca
+		Sertularia_argentea
+		Sertularia_cupressina
+		Sertularia_marginata
+		Sertularia_moluccana
+		Sertularia_perpusilla
+		Sertularia_tumida
+		Sertularia_turbinata
+		Siderastrea_radians
+		Siderastrea_siderea
+		Silicularia_rosea
+		Slabberia_halterata
+		Solanderia_ericopsis
+		Solanderia_secunda
+		Solmissus_marshalli
+		Solmundella_bitentaculata
+		Sphaerocoryne_agassizii
+		Sphaeronectes_koellikeri
+		Sphenopus_marsupialis
+		Stauridiosarsia_gemmifera
+		Stauridiosarsia_nipponica
+		Stauridiosarsia_ophiogaster
+		Stauridiosarsia_producta
+		Stauridiosarsia_reesi
+		Staurocladia_vallentini
+		Staurocladia_wellingtoni
+		Staurodiscus_gotoi
+		Staurotheca_antarctica
+		Stephalia_dilata
+		Stephanocoenia_intersepta
+		Stephanogorgia_faulkneri
+		Stephanomia_amphytridis
+		Stephanthus_antarcticus
+		Stichodactyla_gigantea
+		Stichodactyla_haddoni
+		Stichopathes_spiessi
+		Stomolophus_meleagris
+		Stomphia_didemon
+		Stomphia_selaginella
+		Strongylocentrotus_purpuratus
+		Stylantheca_papillosa
+		Stylaster_alaskanus
+		Stylaster_californicus
+		Stylaster_campylecus
+		Stylaster_duchassaingii
+		Stylaster_elassotomus
+		Stylaster_galapagensis
+		Stylaster_horologium
+		Stylaster_imbricatus
+		Stylaster_papuensis
+		Stylaster_roseus
+		Stylaster_sanguineus
+		Stylaster_sinuosus
+		Stylaster_verrillii
+		Stylophora_pistillata
+		Sugiura_chengshanense
+		Sulculeolaria_quadrivalvis
+		Swiftia_pacifica
+		Sympagohydra_tuuli
+		Symplectoscyphus_curvatus
+		Symplectoscyphus_exochus
+		Symplectoscyphus_glacialis
+		Synhalcurias_elegans
+		Systemapora_ornata
+		Taiaroa_tauhou
+		Tamoya_haplonema
+		Tamoya_ohboya
+		Tanacetipathes_barbadensis
+		Taxella_gracilicaulus
+		Terrazoanthus_californicus
+		Terrazoanthus_minutus
+		Terrazoanthus_patagonichus
+		Tetraplatia_volitans
+		Thalamophyllia_gasti
+		Thecocodium_quadratum
+		Thouarella_antarctica
+		Thouarella_chilensis
+		Thouarella_coronata
+		Thouarella_crenelata
+		Thouarella_grasshoffi
+		Thouarella_laxa
+		Thouarella_pendulina
+		Thouarella_variabilis
+		Thouarella_viridis
+		Thuiaria_thuja
+		Thyroscyphus_marginatus
+		Thyroscyphus_ramosus
+		Tiaricodon_coeruleus
+		Tiaropsidium_kelseyi
+		Tiaropsis_multicirrata
+		Tima_formosa
+		Titanideum_frauenfeldii
+		Trachythela_rudis
+		Triactis_producta
+		Trichogorgia_capensis
+		Trichoplax_adhaerens
+		Tripedalia_cystophora
+		Trissopathes_pseudotristicha
+		Tropidocyathus_labidus
+		Tubastraea_coccinea
+		Tubipora_musica
+		Tubularia_indivisa
+		Turbinaria_peltata
+		Turritopsis_dohrnii
+		Turritopsis_lata
+		Turritopsis_nutricula
+		Turritopsis_rubra
+		Umimayananthus_parasiticus
+		Umimayanthus_chanpuru
+		Umimayanthus_miyabi
+		Umimayanthus_nakama
+		Urticina_columbiana
+		Urticina_coriacea
+		Urticina_crassicornis
+		Urticina_eques
+		Urticina_fecunda
+		Urticina_felina
+		Urticina_grebelnyi
+		Varitentacula_yantaiensis
+		Velella_velella
+		Velkovrhia_enigmatica
+		Verrillactis_paguri
+		Victorgorgia_alba
+		Xingyurella_turgida
+		Zanclea_costata
+		Zanclea_prolifera
+		Zibrowius_ammophilus
+		Zoanthus_gigantus
+		Zoanthus_kuroshio
+		Zoanthus_pulchellus
+		Zoanthus_sansibaricus
+		Zoanthus_sociatus
+		Zoanthus_solanderi
+		Zoanthus_vietnamensis
+		Zoopilus_echinatus
+		Zyzzyzus_warreni
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Abietinaria_abietina,
+		2	Abietinaria_filicula,
+		3	Abyssoprimnoa_gemina,
+		4	Acanthogorgia_armata,
+		5	Acanthopathes_thyoides,
+		6	Acropora_cervicornis,
+		7	Acropora_cytherea,
+		8	Acropora_digitifera,
+		9	Acropora_humilis,
+		10	Acropora_hyacinthus,
+		11	Acropora_muricata,
+		12	Acropora_palmata,
+		13	Acropora_robusta,
+		14	Acrozoanthus_australiae,
+		15	Actinauge_richardi,
+		16	Actinernus_elongatus,
+		17	Actinia_fragacea,
+		18	Actinia_tenebrosa,
+		19	Actinoscyphia_plebeia,
+		20	Actinostephanus_haeckeli,
+		21	Actinostola_crassicornis,
+		22	Actinostola_georgiana,
+		23	Actinothoe_sphyrodeta,
+		24	Adamsia_palliata,
+		25	Adelopora_crassilabrum,
+		26	Aegina_citrea,
+		27	Aeginura_grimaldii,
+		28	Aequorea_australis,
+		29	Aequorea_conica,
+		30	Aequorea_forskalea,
+		31	Aequorea_papillata,
+		32	Aequorea_victoria,
+		33	Agalma_clausi,
+		34	Agalma_elegans,
+		35	Agalma_okenii,
+		36	Agaricia_agaricites,
+		37	Agaricia_fragilis,
+		38	Agaricia_humilis,
+		39	Agaricia_lamarcki,
+		40	Agaricia_tenuifolia,
+		41	Aglantha_digitale,
+		42	Aglaophenia_elongata,
+		43	Aglaophenia_harpago,
+		44	Aglaophenia_octodonta,
+		45	Aglaophenia_pluma,
+		46	Aglaophenia_rhynchocarpa,
+		47	Aglaophenia_tubiformis,
+		48	Aglaura_hemistoma,
+		49	Aglauropsis_aeora,
+		50	Aiptasia_couchii,
+		51	Aiptasia_mutabilis,
+		52	Aiptasiogeton_hyalinus,
+		53	Alaskagorgia_aleutiana,
+		54	Alatina_moseri,
+		55	Alicia_mirabilis,
+		56	Alicia_sansibarensis,
+		57	Allantactis_parasitica,
+		58	Alvinactis_chessi,
+		59	Amphimedon_queenslandica,
+		60	Amphinema_dinema,
+		61	Amphisbetia_minima,
+		62	Amphisbetia_operculata,
+		63	Amphogona_apicata,
+		64	Amplexidiscus_fenestrafer,
+		65	Andvakia_boninensis,
+		66	Andvakia_discipulorum,
+		67	Anemonia_viridis,
+		68	Antarctoscyphus_spiralis,
+		69	Antennella_ansini,
+		70	Antennella_kiwiana,
+		71	Antennella_secundaria,
+		72	Anthemiphyllia_spinifera,
+		73	Anthohebella_parasitica,
+		74	Antholoba_achates,
+		75	Anthopleura_artemisia,
+		76	Anthopleura_atodai,
+		77	Anthopleura_elegantissima,
+		78	Anthopleura_handi,
+		79	Anthopleura_krebsi,
+		80	Anthopleura_kurogane,
+		81	Anthopleura_rosea,
+		82	Anthosactis_janmayeni,
+		83	Anthostella_stephensoni,
+		84	Anthothoe_chilensis,
+		85	Antillogorgia_bipinnata,
+		86	Antipathes_atlantica,
+		87	Antipathes_galapagensis,
+		88	Antipathes_griggi,
+		89	Antipathozoanthus_macaronesicus,
+		90	Antipodactis_awii,
+		91	Aphanipathes_verticillata,
+		92	Apolemia_lanosa,
+		93	Apolemia_rubriversa,
+		94	Arntzia_gracilis,
+		95	Astreopora_myriophthalma,
+		96	Astrohydra_japonica,
+		97	Asyncoryne_ryniensis,
+		98	Athorybia_rosacea,
+		99	Atolla_vanhoeffeni,
+		100	Atolla_wyvillei,
+		101	Aulactinia_incubans,
+		102	Aulactinia_marplatensis,
+		103	Aulactinia_stella,
+		104	Aulactinia_vancouverensis,
+		105	Aulactinia_veratra,
+		106	Aulactinia_verrucosa,
+		107	Aurelia_aurita,
+		108	Aurelia_labiata,
+		109	Aurelia_limbata,
+		110	Balanophyllia_regia,
+		111	Bargmannia_amoena,
+		112	Bargmannia_elongata,
+		113	Bartholomea_annulata,
+		114	Bathypathes_patula,
+		115	Bathyphellia_australis,
+		116	Bellactis_ilkalyseae,
+		117	Bergia_catenularis,
+		118	Bergia_puertoricense,
+		119	Billardia_subrufa,
+		120	Bimeria_vestita,
+		121	Blackfordia_polytentaculata,
+		122	Blackfordia_virginica,
+		123	Bolocera_kerguelensis,
+		124	Boloceroides_mcmurrichi,
+		125	Bonneviella_regia,
+		126	Botrynema_brucei,
+		127	Bougainvillia_carolinensis,
+		128	Bougainvillia_fulva,
+		129	Bougainvillia_muscus,
+		130	Bougainvillia_triestina,
+		131	Bouillonactinia_carcinicola,
+		132	Bouillonactinia_hooperi,
+		133	Branchiocerianthus_imperator,
+		134	Briareum_asbestinum,
+		135	Brinckmannia_hexactinellidophila,
+		136	Bullagummizoanthus_emilyacadiaarum,
+		137	Bunodactis_reynaudi,
+		138	Bunodeopsis_globulifera,
+		139	Bunodosoma_grande,
+		140	Calliactis_japonica,
+		141	Calliactis_parasitica,
+		142	Calliactis_polypus,
+		143	Calliactis_tricolor,
+		144	Callogorgia_euthyeia,
+		145	Callogorgia_korema,
+		146	Callogorgia_medialis,
+		147	Calvadosia_campanulata,
+		148	Calvadosia_corbini,
+		149	Calvadosia_cruciformis,
+		150	Calvadosia_cruxmelitensis,
+		151	Calvadosia_vanhoeffeni,
+		152	Calycella_syringa,
+		153	Calyptrophora_microdentata,
+		154	Calyptrophora_persephone,
+		155	Calyptrophora_wyvillei,
+		156	Campanularia_hincksii,
+		157	Campanularia_lennoxensis,
+		158	Campanularia_volubilis,
+		159	Campanulina_pumila,
+		160	Candelabrum_cocksii,
+		161	Capnea_georgiana,
+		162	Carukia_barnesi,
+		163	Carybdea_arborifera,
+		164	Carybdea_branchi,
+		165	Carybdea_brevipedalia,
+		166	Carybdea_marsupialis,
+		167	Carybdea_rastonii,
+		168	Carybdea_xaymacana,
+		169	Caryophyllia_inornata,
+		170	Cassiopea_andromeda,
+		171	Cassiopea_ornata,
+		172	Cassiopea_xamachana,
+		173	Catalaphyllia_jardinei,
+		174	Catostylus_mosaicus,
+		175	Caulastraea_furcata,
+		176	Cereus_herpetodes,
+		177	Cereus_pedunculatus,
+		178	Ceriantheomorphe_brasiliensis,
+		179	Ceriantheopsis_americana,
+		180	Cerianthus_membranaceus,
+		181	Charisea_saxicola,
+		182	Chironex_fleckeri,
+		183	Chironex_yamaguchii,
+		184	Chiropsalmus_quadrumanus,
+		185	Chrysaora_fuscescens,
+		186	Chrysaora_helvola,
+		187	Chrysaora_hysoscella,
+		188	Chrysaora_melanaster,
+		189	Chrysaora_quinquecirrha,
+		190	Chrysogorgia_chryseis,
+		191	Chrysogorgia_monticola,
+		192	Chrysogorgia_pinnata,
+		193	Chuniphyes_multidentata,
+		194	Cirrhipathes_anguina,
+		195	Cladocarpus_integer,
+		196	Cladocora_caespitosa,
+		197	Cladocoryne_floccosa,
+		198	Cladonema_radiatum,
+		199	Clava_multicornis,
+		200	Clavactinia_gallensis,
+		201	Clavactinia_serrata,
+		202	Clytia_elsaeoswaldae,
+		203	Clytia_folleata,
+		204	Clytia_gracilis,
+		205	Clytia_hemisphaerica,
+		206	Clytia_hummelincki,
+		207	Clytia_linearis,
+		208	Clytia_noliformis,
+		209	Clytia_paulensis,
+		210	Clytia_xiamenensis,
+		211	Codonium_prolifera,
+		212	Codonium_proliferum,
+		213	Colpophyllia_natans,
+		214	Conopora_candelabrum,
+		215	Convexella_magelhaenica,
+		216	Copula_sivickisi,
+		217	Corallimorphus_pilatus,
+		218	Corallimorphus_profundus,
+		219	Corallizoanthus_tsukaharai,
+		220	Cordagalma_ordinatum,
+		221	Cordylophora_caspia,
+		222	Corymorpha_bigelowi,
+		223	Corymorpha_glacialis,
+		224	Corymorpha_groenlandica,
+		225	Corymorpha_nutans,
+		226	Corymorpha_pendula,
+		227	Corymorpha_sarsii,
+		228	Corynactis_californica,
+		229	Corynactis_viridis,
+		230	Coryne_cliffordi,
+		231	Coryne_epizoica,
+		232	Coryne_eximia,
+		233	Coryne_muscoides,
+		234	Coryne_pintneri,
+		235	Coryne_pusilla,
+		236	Coryne_uchidai,
+		237	Crambionella_orsini,
+		238	Craseoa_lathetica,
+		239	Craspedacusta_sinensis,
+		240	Craspedacusta_sowerbii,
+		241	Craterolophus_convolvulus,
+		242	Cricophorus_nutrix,
+		243	Crispatotrochus_rugosus,
+		244	Crossota_rufobrunnea,
+		245	Crypthelia_cryptotrema,
+		246	Crypthelia_trophostega,
+		247	Cyananthea_hourdezi,
+		248	Cyanea_capillata,
+		249	Cyanea_nozakii,
+		250	Cyclohelia_lamellata,
+		251	Cyphastrea_ocellina,
+		252	Dactylanthus_antarcticus,
+		253	Dasystenella_acanthina,
+		254	Dendrobathypathes_boutillieri,
+		255	Dendrogyra_cylindrus,
+		256	Dendronephthya_sinaiensis,
+		257	Dendropathes_bacotaylorae,
+		258	Dentitheca_bidentata,
+		259	Depastromorpha_africana,
+		260	Desmophyllum_dianthus,
+		261	Desmophyllum_pertusum,
+		262	Diadumene_cincta,
+		263	Diadumene_leucolena,
+		264	Diadumene_lineata,
+		265	Dichocoenia_stokesii,
+		266	Dicoryne_conybearei,
+		267	Diphasia_fallax,
+		268	Diploria_labyrinthiformis,
+		269	Dipsastraea_favus,
+		270	Discosoma_neglecta,
+		271	Discosoma_nummiforme,
+		272	Distichopora_anceps,
+		273	Distichopora_asulcata,
+		274	Distichopora_borealis,
+		275	Distichopora_irregularis,
+		276	Distichopora_robusta,
+		277	Distichopora_violacea,
+		278	Drymonema_dalmatinum,
+		279	Drymonema_larsoni,
+		280	Dynamena_crisioides,
+		281	Dynamena_pumila,
+		282	Earleria_panicula,
+		283	Echinophyllia_orpheensis,
+		284	Echinopora_lamellosa,
+		285	Ectopleura_crocea,
+		286	Ectopleura_dumortierii,
+		287	Ectopleura_larynx,
+		288	Ectopleura_marina,
+		289	Ectopleura_obypa,
+		290	Ectopleura_wrighti,
+		291	Edwardsia_elegans,
+		292	Edwardsia_japonica,
+		293	Edwardsia_timida,
+		294	Edwardsianthus_gilbertensis,
+		295	Eirene_brevistylus,
+		296	Eirene_ceylonensis,
+		297	Eirene_hexanemalis,
+		298	Eirene_kambara,
+		299	Eirene_lacteoides,
+		300	Eirene_menoni,
+		301	Eirene_pyramidalis,
+		302	Eirene_viridula,
+		303	Elatopathes_abietina,
+		304	Eleutheria_dichotoma,
+		305	Eleutherobia_aurea,
+		306	Ellisella_schmitti,
+		307	Epiactis_australiensis,
+		308	Epiactis_fernaldi,
+		309	Epiactis_georgiana,
+		310	Epiactis_handi,
+		311	Epiactis_japonica,
+		312	Epiactis_lisbethae,
+		313	Epiactis_prolifera,
+		314	Epiactis_ritteri,
+		315	Epiactis_thompsoni,
+		316	Epizoanthus_arenaceus,
+		317	Epizoanthus_couchii,
+		318	Epizoanthus_fiordicus,
+		319	Epizoanthus_illoricatus,
+		320	Epizoanthus_lindhali,
+		321	Epizoanthus_paguricola,
+		322	Epizoanthus_papillosus,
+		323	Epizoanthus_scotinus,
+		324	Epizoanthus_vagus,
+		325	Errinopora_nanneca,
+		326	Erythropodium_caribaeorum,
+		327	Eucheilota_bakeri,
+		328	Eucheilota_maculata,
+		329	Eucheilota_menoni,
+		330	Eudendrium_californicum,
+		331	Eudendrium_capillare,
+		332	Eudendrium_caraiuru,
+		333	Eudendrium_carneum,
+		334	Eudendrium_glomeratum,
+		335	Eudendrium_racemosum,
+		336	Eugymnanthea_inquilina,
+		337	Eugymnanthea_japonica,
+		338	Euphyllia_ancora,
+		339	Euphysa_aurata,
+		340	Euphysa_intermedia,
+		341	Euphysa_japonica,
+		342	Euphysa_tentaculata,
+		343	Eusmilia_fastigiata,
+		344	Eutima_curva,
+		345	Eutima_diademata,
+		346	Eutima_gegenbauri,
+		347	Eutima_gracilis,
+		348	Eutima_levuka,
+		349	Eutima_sapinhoa,
+		350	Eutonina_indicans,
+		351	Exaiptasia_diaphana,
+		352	Exocoelactis_actinostoloides,
+		353	Fabienna_sphaerica,
+		354	Fannyella_rossii,
+		355	Fannyella_spinosa,
+		356	Favia_fragum,
+		357	Favites_abdita,
+		358	Favites_valenciennesii,
+		359	Flabellum_deludens,
+		360	Forskalia_asymmetrica,
+		361	Forskalia_edwardsi,
+		362	Forskalia_formosa,
+		363	Forskalia_tholoides,
+		364	Fungiacyathus_marenzelleri,
+		365	Galatheanthemum_profundale,
+		366	Galaxea_astreata,
+		367	Galaxea_fascicularis,
+		368	Gangliostoma_guangdongensis,
+		369	Gardineria_hawaiiensis,
+		370	Gardineria_paradoxa,
+		371	Gardineroseris_planulata,
+		372	Garveia_annulata,
+		373	Garveia_grisea,
+		374	Geryonia_proboscidalis,
+		375	Glyphoperidium_bursa,
+		376	Gonactinia_prolifera,
+		377	Goniastrea_retiformis,
+		378	Goniopora_columna,
+		379	Goniopora_gracilis,
+		380	Goniopora_pedunculata,
+		381	Goniopora_planulata,
+		382	Goniopora_stokesi,
+		383	Gonothyraea_inornata,
+		384	Gonothyraea_loveni,
+		385	Gymnopraia_lapislazula,
+		386	Gyractis_sesere,
+		387	Halcampa_duodecimcirrata,
+		388	Halcampoides_purpureus,
+		389	Halcurias_pilatus,
+		390	Halecium_beanii,
+		391	Halecium_halecinum,
+		392	Halecium_incertus,
+		393	Halecium_labrosum,
+		394	Halecium_lenticulare,
+		395	Halecium_mediterraneum,
+		396	Halecium_muricatum,
+		397	Halecium_pusillum,
+		398	Haliclystus_antarcticus,
+		399	Haliclystus_borealis,
+		400	Haliclystus_californiensis,
+		401	Haliclystus_inabai,
+		402	Haliclystus_octoradiatus,
+		403	Haliclystus_sanjuanensis,
+		404	Haliclystus_stejnegeri,
+		405	Haliclystus_tenuis,
+		406	Haliscera_conica,
+		407	Halistemma_rubrum,
+		408	Haloclava_producta,
+		409	Halopteris_carinata,
+		410	Halopteris_catharina,
+		411	Halopteris_diaphana,
+		412	Halopteris_liechtensternii,
+		413	Halopteris_minuta,
+		414	Harenactis_argentina,
+		415	Hataia_parva,
+		416	Hebella_venusta,
+		417	Helgicirrha_brevistyla,
+		418	Helgicirrha_malayensis,
+		419	Helicogorgia_flagellata,
+		420	Heliofungia_actiniformis,
+		421	Hemicorallium_ducale,
+		422	Heptaprimnoa_patagonica,
+		423	Heteractis_aurora,
+		424	Heteractis_magnifica,
+		425	Heteropolypus_ritteri,
+		426	Hippopodius_hippopus,
+		427	Hormathia_armata,
+		428	Hormathia_lacunifera,
+		429	Hormathia_pectinata,
+		430	Hormosoma_scotti,
+		431	Hurlizoanthus_parrishi,
+		432	Hybocodon_chilensis,
+		433	Hybocodon_prolifer,
+		434	Hydnophora_exesa,
+		435	Hydnophora_rigida,
+		436	Hydra_canadensis,
+		437	Hydra_circumcincta,
+		438	Hydra_hymanae,
+		439	Hydra_oligactis,
+		440	Hydra_oxycnida,
+		441	Hydra_polymorphus,
+		442	Hydra_robusta,
+		443	Hydra_sinensis,
+		444	Hydra_utahensis,
+		445	Hydra_viridissima,
+		446	Hydra_vulgaris,
+		447	Hydractinia_echinata,
+		448	Hydractinia_symbiolongicarpus,
+		449	Hydrallmania_falcata,
+		450	Hydranthea_margarica,
+		451	Hydrichthella_epigorgia,
+		452	Hydrichthys_boycei,
+		453	Hydrissa_sodalis,
+		454	Hydrodendron_mirabile,
+		455	Hydrozoanthus_gracilis,
+		456	Hydrozoanthus_tunicans,
+		457	Idiellana_pristis,
+		458	Ifalukella_yanii,
+		459	Inferiolabiata_lowei,
+		460	Iridogorgia_magnispiralis,
+		461	Iridogorgia_splendens,
+		462	Isactinernus_quadrilobatus,
+		463	Isactinia_olivacea,
+		464	Isanthus_capensis,
+		465	Isarachnanthus_maderensis,
+		466	Isarachnanthus_nocturnus,
+		467	Isaurus_tuberculatus,
+		468	Isidoides_armata,
+		469	Isoparactis_fabiani,
+		470	Isoparactis_ferax,
+		471	Isopora_palifera,
+		472	Isosicyonis_alba,
+		473	Isosicyonis_striata,
+		474	Isotealia_antarctica,
+		475	Isozoanthus_giganteus,
+		476	Janaria_mirabilis,
+		477	Jasonactis_erythraios,
+		478	Kadosactis_antarctica,
+		479	Kauluzoanthus_kerbyi,
+		480	Kephyes_ovata,
+		481	Kirchenpaueria_pinnata,
+		482	Koellikerina_fasciculata,
+		483	Kulamanamana_haumeaae,
+		484	Lafoea_dumosa,
+		485	Laomedea_calceolifera,
+		486	Laomedea_flexuosa,
+		487	Laviactis_lucida,
+		488	Lensia_conoidea,
+		489	Lepidopora_polystichopora,
+		490	Lepidotheca_chauliostylus,
+		491	Leptastrea_bottae,
+		492	Leptogorgia_capverdensis,
+		493	Leptogorgia_chilensis,
+		494	Leptohelia_flexibilis,
+		495	Leptohelia_microstylus,
+		496	Leptopsammia_pruvoti,
+		497	Leptoria_phrygia,
+		498	Letepsammia_formosissima,
+		499	Leuckartiara_octona,
+		500	Lillipathes_wingi,
+		501	Lilyopsis_fluoracantha,
+		502	Limnocnida_tanganjicae,
+		503	Lipkea_ruspoliana,
+		504	Liponema_brevicorne,
+		505	Liponema_multiporum,
+		506	Liriope_tetraphylla,
+		507	Lizzia_blondina,
+		508	Lobactis_scutaria,
+		509	Lobophyllia_hemprichii,
+		510	Lovenella_assimilis,
+		511	Lovenella_gracilis,
+		512	Lucernaria_bathyphila,
+		513	Lucernaria_janetae,
+		514	Lucernaria_quadricornis,
+		515	Lucernaria_sainthilairei,
+		516	Lytocarpia_canepa,
+		517	Macrodactyla_doreensis,
+		518	Macrorhynchia_philippina,
+		519	Macrorhynchia_phoenicea,
+		520	Madracis_myriaster,
+		521	Madracis_pharensis,
+		522	Madrepora_oculata,
+		523	Maeotias_marginata,
+		524	Magallana_gigas,
+		525	Malagazzia_carolinae,
+		526	Manania_gwilliami,
+		527	Manania_uchidai,
+		528	Manicina_areolata,
+		529	Marrus_orthocanna,
+		530	Mastigias_papua,
+		531	Meandrina_meandrites,
+		532	Melicertum_octocostatum,
+		533	Melithaea_ochracea,
+		534	Merulina_ampliata,
+		535	Merulina_scabricula,
+		536	Mesozoanthus_fossii,
+		537	Metafannyella_kuekenthali,
+		538	Metallogorgia_macrospina,
+		539	Metallogorgia_melanotrichos,
+		540	Metedwardsia_akkeshi,
+		541	Metridium_senile,
+		542	Microzoanthus_kagerou,
+		543	Microzoanthus_occultus,
+		544	Mirostenella_articulata,
+		545	Mitrocomella_brownei,
+		546	Mitrocomella_niwai,
+		547	Modeeria_rotunda,
+		548	Moerisia_inkermanica,
+		549	Monobrachium_parasitum,
+		550	Monostaechas_quadridens,
+		551	Montastraea_cavernosa,
+		552	Montipora_capitata,
+		553	Montipora_digitata,
+		554	Montipora_dilatata,
+		555	Montipora_flabellata,
+		556	Montipora_patula,
+		557	Montipora_verrilli,
+		558	Morbakka_virulenta,
+		559	Muggiaea_atlantica,
+		560	Mussa_angulosa,
+		561	Mycedium_elephantotus,
+		562	Mycetophyllia_aliciae,
+		563	Nanomia_bijuga,
+		564	Nanozoanthus_harenaceus,
+		565	Narella_bowersi,
+		566	Narella_clavata,
+		567	Narella_dichotoma,
+		568	Narella_versluysi,
+		569	Nausithoe_atlantica,
+		570	Nausithoe_rubra,
+		571	Nectadamas_diomedeae,
+		572	Nectopyramis_natans,
+		573	Nemalecium_lighti,
+		574	Nemanthus_nitidus,
+		575	Nematostella_vectensis,
+		576	Nemertesia_antennina,
+		577	Nemopilema_nomurai,
+		578	Nemopsis_bachei,
+		579	Neoturris_breviconis,
+		580	Obelia_bidentata,
+		581	Obelia_dichotoma,
+		582	Obelia_geniculata,
+		583	Obelia_longissima,
+		584	Octophialucium_indicum,
+		585	Octophialucium_medium,
+		586	Oculina_patagonica,
+		587	Odessia_maeotica,
+		588	Olindias_formosus,
+		589	Olindias_muelleri,
+		590	Olindias_sambaquiensis,
+		591	Onogorgia_nodosa,
+		592	Opercularella_lacerata,
+		593	Ophidiogorgia_kuekenthali,
+		594	Orbicella_annularis,
+		595	Orbicella_faveolata,
+		596	Orbicella_franksi,
+		597	Orthopyxis_caliculata,
+		598	Orthopyxis_crenata,
+		599	Orthopyxis_everta,
+		600	Orthopyxis_integra,
+		601	Orthopyxis_mianzani,
+		602	Orthopyxis_sargassicola,
+		603	Ostiactis_pearseae,
+		604	Oswaldella_grandis,
+		605	Oswaldella_laertesi,
+		606	Oswaldella_shetlandica,
+		607	Oswaldella_stepanjantsae,
+		608	Oulactis_muscosa,
+		609	Oulastrea_crispata,
+		610	Pachycerianthus_fimbriatus,
+		611	Pachycerianthus_magnus,
+		612	Pachycordyle_pusilla,
+		613	Palythoa_caribaeorum,
+		614	Palythoa_grandiflora,
+		615	Palythoa_grandis,
+		616	Palythoa_heliodiscus,
+		617	Palythoa_mizigama,
+		618	Palythoa_mutuki,
+		619	Palythoa_tuberculosa,
+		620	Palythoa_umbrosa,
+		621	Palythoa_variabilis,
+		622	Pantachogon_haeckeli,
+		623	Paraconopora_anthohelia,
+		624	Paracyathus_pulchellus,
+		625	Paragorgia_arborea,
+		626	Paragorgia_johnsoni,
+		627	Paramuricea_biscaya,
+		628	Paramuricea_placomus,
+		629	Paranthus_niveus,
+		630	Parasphaerasclera_aurea,
+		631	Parastenella_spinosa,
+		632	Parazoanthus_anguicomus,
+		633	Parazoanthus_axinellae,
+		634	Parazoanthus_capensis,
+		635	Parazoanthus_cutressi,
+		636	Parazoanthus_elongatus,
+		637	Parazoanthus_gracilis,
+		638	Parazoanthus_juanfernandezii,
+		639	Parazoanthus_swiftii,
+		640	Pavona_frondifera,
+		641	Pavona_varians,
+		642	Peachia_cylindrica,
+		643	Pectinia_alcicornis,
+		644	Pelagia_noctiluca,
+		645	Pennaria_disticha,
+		646	Perarella_schneideri,
+		647	Periphylla_periphylla,
+		648	Perissogorgia_monile,
+		649	Perissogorgia_vitrea,
+		650	Phacellophora_camtschatica,
+		651	Phanopathes_expansa,
+		652	Phellia_exlex,
+		653	Phellia_gausapata,
+		654	Phialella_quadrata,
+		655	Phyllangia_americana,
+		656	Phyllorhiza_punctata,
+		657	Phymanthus_crucifer,
+		658	Phymanthus_loligo,
+		659	Physalia_physalis,
+		660	Physogyra_lichtensteini,
+		661	Physophora_hydrostatica,
+		662	Platygyra_daedalea,
+		663	Platygyra_sinensis,
+		664	Platyzoanthus_mussoides,
+		665	Pleurocorallium_porcellanum,
+		666	Pliobothrus_echinatus,
+		667	Plumarella_delicatissima,
+		668	Plumarella_diadema,
+		669	Plumarella_undulata,
+		670	Plumularia_duseni,
+		671	Plumularia_filicaulis,
+		672	Plumularia_habereri,
+		673	Plumularia_hyalina,
+		674	Plumularia_lagenifera,
+		675	Plumularia_margaretta,
+		676	Plumularia_mooreana,
+		677	Plumularia_obliqua,
+		678	Plumularia_pulchella,
+		679	Plumularia_setacea,
+		680	Plumularia_setaceoides,
+		681	Plumularia_spiralis,
+		682	Plumularia_strictocarpa,
+		683	Pocillopora_damicornis,
+		684	Pocillopora_meandrina,
+		685	Podocoryna_borealis,
+		686	Podocoryna_carnea,
+		687	Podocoryna_exigua,
+		688	Podocoryna_hayamaensis,
+		689	Podocoryna_pruvoti,
+		690	Podocorynoides_minima,
+		691	Polycyathus_muellerae,
+		692	Polyorchis_haplus,
+		693	Polyorchis_penicillatus,
+		694	Porites_astreoides,
+		695	Porites_branneri,
+		696	Porites_compressa,
+		697	Porites_cylindrica,
+		698	Porites_divaricata,
+		699	Porites_lobata,
+		700	Porites_lutea,
+		701	Porites_nigrescens,
+		702	Porites_porites,
+		703	Porpita_porpita,
+		704	Praya_dubia,
+		705	Preactis_millardae,
+		706	Primnoa_pacifica,
+		707	Primnoeides_kuekenthali,
+		708	Primnoeides_sertularoides,
+		709	Primnoella_antarctica,
+		710	Primnoella_chilensis,
+		711	Primnoella_divaricata,
+		712	Primnoella_scotiae,
+		713	Proboscidactyla_flavicirrata,
+		714	Proboscidactyla_ornata,
+		715	Protanthea_simplex,
+		716	Pseudochrysogorgia_bellona,
+		717	Pseudocrypthelia_pachypoma,
+		718	Pseudodiploria_clivosa,
+		719	Pseudodiploria_strigosa,
+		720	Ptychogena_crocea,
+		721	Pycnotheca_mirabilis,
+		722	Radicipes_gracilis,
+		723	Ralpharia_gorgoniae,
+		724	Rathkea_octopunctata,
+		725	Relicanthus_daphneae,
+		726	Rhacostoma_atlanticum,
+		727	Rhizocaulus_verticillatus,
+		728	Rhizogeton_nudus,
+		729	Rhizophysa_eysenhardti,
+		730	Rhizophysa_filiformis,
+		731	Rhizorhagium_arenosum,
+		732	Rhizosmilia_maculata,
+		733	Rhodactis_osculifera,
+		734	Rhodactis_rhodostoma,
+		735	Rhodaniridogorgia_fragilis,
+		736	Rhombopsammia_niphada,
+		737	Rhopalonema_velatum,
+		738	Rhopilema_esculentum,
+		739	Rhopilema_verrilli,
+		740	Ricordea_florida,
+		741	Rosacea_flaccida,
+		742	Sagartia_elegans,
+		743	Sagartia_ornata,
+		744	Sagartia_troglodytes,
+		745	Sagartiogeton_laceratus,
+		746	Sagartiogeton_undatus,
+		747	Salacia_desmoides,
+		748	Sanderia_malayensis,
+		749	Sarcophyton_trocheliophorum,
+		750	Sarsia_apicula,
+		751	Sarsia_lovenii,
+		752	Sarsia_princeps,
+		753	Sarsia_striata,
+		754	Sarsia_tubulosa,
+		755	Savalia_savaglia,
+		756	Schizopathes_affinis,
+		757	Schizotricha_crassa,
+		758	Schizotricha_falcata,
+		759	Schizotricha_nana,
+		760	Schizotricha_turqueti,
+		761	Schuchertinia_altispina,
+		762	Schuchertinia_conchicola,
+		763	Schuchertinia_milleri,
+		764	Scolionema_suvaense,
+		765	Scrippsia_pacifica,
+		766	Sertularella_africana,
+		767	Sertularella_diaphana,
+		768	Sertularella_distans,
+		769	Sertularella_ellisii,
+		770	Sertularella_gayi,
+		771	Sertularella_mediterranea,
+		772	Sertularella_sanmatiasensis,
+		773	Sertularelloides_cylindritheca,
+		774	Sertularia_argentea,
+		775	Sertularia_cupressina,
+		776	Sertularia_marginata,
+		777	Sertularia_moluccana,
+		778	Sertularia_perpusilla,
+		779	Sertularia_tumida,
+		780	Sertularia_turbinata,
+		781	Siderastrea_radians,
+		782	Siderastrea_siderea,
+		783	Silicularia_rosea,
+		784	Slabberia_halterata,
+		785	Solanderia_ericopsis,
+		786	Solanderia_secunda,
+		787	Solmissus_marshalli,
+		788	Solmundella_bitentaculata,
+		789	Sphaerocoryne_agassizii,
+		790	Sphaeronectes_koellikeri,
+		791	Sphenopus_marsupialis,
+		792	Stauridiosarsia_gemmifera,
+		793	Stauridiosarsia_nipponica,
+		794	Stauridiosarsia_ophiogaster,
+		795	Stauridiosarsia_producta,
+		796	Stauridiosarsia_reesi,
+		797	Staurocladia_vallentini,
+		798	Staurocladia_wellingtoni,
+		799	Staurodiscus_gotoi,
+		800	Staurotheca_antarctica,
+		801	Stephalia_dilata,
+		802	Stephanocoenia_intersepta,
+		803	Stephanogorgia_faulkneri,
+		804	Stephanomia_amphytridis,
+		805	Stephanthus_antarcticus,
+		806	Stichodactyla_gigantea,
+		807	Stichodactyla_haddoni,
+		808	Stichopathes_spiessi,
+		809	Stomolophus_meleagris,
+		810	Stomphia_didemon,
+		811	Stomphia_selaginella,
+		812	Strongylocentrotus_purpuratus,
+		813	Stylantheca_papillosa,
+		814	Stylaster_alaskanus,
+		815	Stylaster_californicus,
+		816	Stylaster_campylecus,
+		817	Stylaster_duchassaingii,
+		818	Stylaster_elassotomus,
+		819	Stylaster_galapagensis,
+		820	Stylaster_horologium,
+		821	Stylaster_imbricatus,
+		822	Stylaster_papuensis,
+		823	Stylaster_roseus,
+		824	Stylaster_sanguineus,
+		825	Stylaster_sinuosus,
+		826	Stylaster_verrillii,
+		827	Stylophora_pistillata,
+		828	Sugiura_chengshanense,
+		829	Sulculeolaria_quadrivalvis,
+		830	Swiftia_pacifica,
+		831	Sympagohydra_tuuli,
+		832	Symplectoscyphus_curvatus,
+		833	Symplectoscyphus_exochus,
+		834	Symplectoscyphus_glacialis,
+		835	Synhalcurias_elegans,
+		836	Systemapora_ornata,
+		837	Taiaroa_tauhou,
+		838	Tamoya_haplonema,
+		839	Tamoya_ohboya,
+		840	Tanacetipathes_barbadensis,
+		841	Taxella_gracilicaulus,
+		842	Terrazoanthus_californicus,
+		843	Terrazoanthus_minutus,
+		844	Terrazoanthus_patagonichus,
+		845	Tetraplatia_volitans,
+		846	Thalamophyllia_gasti,
+		847	Thecocodium_quadratum,
+		848	Thouarella_antarctica,
+		849	Thouarella_chilensis,
+		850	Thouarella_coronata,
+		851	Thouarella_crenelata,
+		852	Thouarella_grasshoffi,
+		853	Thouarella_laxa,
+		854	Thouarella_pendulina,
+		855	Thouarella_variabilis,
+		856	Thouarella_viridis,
+		857	Thuiaria_thuja,
+		858	Thyroscyphus_marginatus,
+		859	Thyroscyphus_ramosus,
+		860	Tiaricodon_coeruleus,
+		861	Tiaropsidium_kelseyi,
+		862	Tiaropsis_multicirrata,
+		863	Tima_formosa,
+		864	Titanideum_frauenfeldii,
+		865	Trachythela_rudis,
+		866	Triactis_producta,
+		867	Trichogorgia_capensis,
+		868	Trichoplax_adhaerens,
+		869	Tripedalia_cystophora,
+		870	Trissopathes_pseudotristicha,
+		871	Tropidocyathus_labidus,
+		872	Tubastraea_coccinea,
+		873	Tubipora_musica,
+		874	Tubularia_indivisa,
+		875	Turbinaria_peltata,
+		876	Turritopsis_dohrnii,
+		877	Turritopsis_lata,
+		878	Turritopsis_nutricula,
+		879	Turritopsis_rubra,
+		880	Umimayananthus_parasiticus,
+		881	Umimayanthus_chanpuru,
+		882	Umimayanthus_miyabi,
+		883	Umimayanthus_nakama,
+		884	Urticina_columbiana,
+		885	Urticina_coriacea,
+		886	Urticina_crassicornis,
+		887	Urticina_eques,
+		888	Urticina_fecunda,
+		889	Urticina_felina,
+		890	Urticina_grebelnyi,
+		891	Varitentacula_yantaiensis,
+		892	Velella_velella,
+		893	Velkovrhia_enigmatica,
+		894	Verrillactis_paguri,
+		895	Victorgorgia_alba,
+		896	Xingyurella_turgida,
+		897	Zanclea_costata,
+		898	Zanclea_prolifera,
+		899	Zibrowius_ammophilus,
+		900	Zoanthus_gigantus,
+		901	Zoanthus_kuroshio,
+		902	Zoanthus_pulchellus,
+		903	Zoanthus_sansibaricus,
+		904	Zoanthus_sociatus,
+		905	Zoanthus_solanderi,
+		906	Zoanthus_vietnamensis,
+		907	Zoopilus_echinatus,
+		908	Zyzzyzus_warreni
+	;
+	TREE * UNTITLED = [&R] (((((((((((((3:212.128,((565:40.8807,(566:0.0451271,568:0.0451271):40.8355):114.901,567:155.782):56.3467):4.49666,706:216.625):32.7853,631:249.41):38.0394,(((((((354:51.7615,355:51.7615):40.6646,591:92.4262):7.33167,((94:28.8115,593:28.8115):54.0177,((707:59.4886,708:59.4886):8.79104,667:68.2796):14.5496):16.9287):56.9872,(((712:44.3137,709:44.3137):70.5808,544:114.894):24.6106,((((((668:81.3361,(848:61.939,855:61.939):19.3971):22.1567,854:103.493):5.26264,669:108.755):16.7576,(849:33.9332,(851:14.5784,856:14.5784):19.3548):91.5798):10.2138,(852:112.359,853:112.359):23.3678):3.02351,711:138.75):0.754705):17.24):9.38351,710:166.129):64.4973,(((215:2.88909,422:2.88909):15.9725,253:18.8615):1.07206,537:19.9336):210.692):9.55645,(((145:17.3665,850:17.3665):135.538,(144:51.4857,146:51.4857):101.419):30.1692,(648:73.5527,649:73.5527):109.521):57.1083):47.2673):23.7641,((153:91.6213,155:91.6213):110.15,154:201.772):109.442):1.71947,((190:241.867,(191:203.018,192:203.018):38.8483):0.553257,((((460:94.9102,735:94.9102):4.93818,461:99.8483):44.2611,((538:102.933,539:102.933):12.7418,716:115.675):28.4343):43.3012,722:187.411):55.0093):70.5132):82.6894,468:395.623):35.5284,(419:321.842,((458:151.212,867:151.212):170.179,803:321.391):0.451046):109.309):6.75074,((((((((((((4:37.0426,(627:3.05951,628:3.05951):33.9831):17.9445,53:54.9871):88.2472,((((85:11.2106,493:11.2106):22.9376,492:34.1483):12.5575,830:46.7058):73.6025,837:120.308):22.926):15.8677,(895:98.6728,(865:81.8726,256:81.8726):16.8002):60.4292):9.22333,533:168.325):8.52793,(749:23.2611,873:23.2611):153.592):32.0869,625:208.94):105.077,134:314.017):0.0425754,326:314.06):9.07352,(305:92.7127,864:92.7127):230.421):1.63028,(425:288.178,(421:150.942,(665:128.443,626:128.443):22.4992):137.235):36.5861):19.7392,306:344.503):93.3989):9.75047,((178:255.203,179:255.203):103.034,(((180:94.5398,611:94.5398):100.751,610:195.29):66.3778,(465:20.2704,466:20.2704):241.398):96.5689):89.4151):187.129,(((((5:447.879,((((86:244.637,((87:173.541,194:173.541):17.7278,88:191.269):53.3686):115.883,91:360.521):45.5992,(303:364.814,((651:87.1226,808:87.1226):46.6704,840:133.793):231.021):41.3063):18.7168,((114:280.749,(((254:75.667,500:75.667):25.1785,756:100.845):131.19,257:232.036):48.7129):65.8862,870:346.635):78.2019):23.0421):107.203,((((((((((470:42.9264,469:42.9264):75.7454,464:118.672):208.001,(((((((15:76.6804,429:76.6804):61.2969,57:137.977):70.6222,(((24:75.6773,141:75.6773):88.2769,242:163.954):39.8133,(427:158.975,428:158.975):44.7927):4.83193):2.65322,(140:191.89,(142:171.404,143:171.404):20.486):19.363):33.7994,((19:126.75,365:126.75):76.4105,574:203.16):41.8916):18.4905,((65:23.9898,66:23.9898):64.8609,(652:28.8558,653:28.8558):59.9949):174.692):6.9506,(387:264.199,388:264.199):6.29437):56.1793):29.9649,((((((((23:5.29158,84:5.29158):36.7251,629:42.0167):76.1372,894:118.154):66.2859,((((((((50:30.2657,487:30.2657):53.9818,113:84.2475):1.33392,116:85.5815):9.68122,351:95.2627):8.30189,52:103.565):12.9576,(55:22.0261,56:22.0261):94.4961):34.7844,((51:31.3077,115:31.3077):18.9416,866:50.2493):101.057):32.5209,((((124:43.4589,(376:40.0229,715:40.0229):3.43602):66.7369,138:110.196):40.9667,743:151.163):23.0993,(745:169.086,746:169.086):5.17552):9.56566):0.612306):3.47091,(177:28.8642,744:28.8642):159.047):6.47267,((90:55.2592,176:55.2592):98.0801,((181:58.3919,742:58.3919):60.9276,541:119.32):34.0197):41.0441):5.50044,((262:114.029,263:114.029):31.3103,264:145.34):54.5441):129.591,((((58:13.0029,478:13.0029):34.9096,247:47.9125):172.395,477:220.307):82.3284,603:302.635):26.8394):27.1625):37.1377,642:393.775):72.4581,(((((((17:86.7026,18:86.7026):191.182,(((((79:3.75056,137:3.75056):4.92152,608:8.67208):64.1126,((106:9.68303,657:9.68303):16.7957,139:26.4787):46.3059):3.92004,(83:64.0452,705:64.0452):12.6596):132.7,252:209.405):68.48):30.1966,((((67:5.88225,78:5.88225):64.928,423:70.8103):135.027,(76:106.563,386:106.563):99.2746):87.9935,(75:290.355,540:290.355):3.47566):14.2503):5.1083,(((77:192.432,(81:144.23,(105:70.8788,463:70.8788):73.3507):48.2023):58.0463,(((((80:26.4992,658:26.4992):131.15,102:157.649):14.2132,517:171.862):15.0264,((375:43.0799,(473:27.2945,474:27.2945):15.7855):27.0338,472:70.1137):116.775):62.0424,((123:25.4025,504:25.4025):32.7304,505:58.1329):190.798):1.54708):17.2036,((424:105.191,807:105.191):68.2879,806:173.479):94.203):45.5077):7.92795,408:321.117):109.527,(((20:115.486,(307:27.4777,315:27.4777):88.0078):215.749,309:331.234):75.7579,(414:26.3358,805:26.3358):380.656):23.6522):14.0924,(((101:169.322,(103:111.694,104:111.694):57.6281):201.046,((308:77.3685,(310:30.1273,314:30.1273):47.2411):161.486,((311:35.2741,312:35.2741):64.8151,313:100.089):138.766):131.514):49.6862,(((884:72.7732,(885:10.7087,887:10.7087):62.0645):49.8955,889:122.669):54.6378,((886:38.1867,888:38.1867):95.2283,890:133.415):43.8915):242.748):24.6824):21.4962):3.18841,(((21:34.9483,22:34.9483):25.0571,352:60.0054):366.396,(74:348.458,(810:327.012,811:327.012):21.4457):77.9437):43.0198):47.8748,161:517.296):9.56082,(82:257.409,430:257.409):269.448):19.3232,(((16:41.2255,835:41.2255):330.987,(389:101.518,462:101.518):270.695):148.828,((291:130.248,(292:69.5164,(293:22.7981,294:22.7981):46.7183):60.7321):114.692,575:244.94):276.099):25.1402):8.90195):6.53393,((((((((((((((((((6:6.58784,12:6.58784):4.24157,10:10.8294):125.352,8:136.182):4.44342,9:140.625):18.061,7:158.686):20.2762,471:178.962):3.77854,(552:182.525,((553:116.522,(556:13.624,557:13.624):102.898):4.29469,(554:5.08425,555:5.08425):115.733):61.7079):0.215945):21.4133,95:204.154):46.0898,11:250.244):15.967,367:266.211):14.1835,(13:259.78,(338:222.39,366:222.39):37.3903):20.6141):33.4727,((((36:196.338,40:196.338):76.6962,((37:12.2492,39:12.2492):222.323,38:234.572):38.4622):19.456,(371:87.9192,640:87.9192):204.571):18.4078,846:310.898):2.96925):2.43793,802:316.305):16.275,(781:217.623,782:217.623):114.957):29.0573,359:361.637):1.08372,(((((((((((((((((72:6.87885,357:6.87885):68.9797,(175:63.0494,((534:40.5756,(561:1.90471,643:1.90471):38.6709):15.7212,535:56.2968):6.75259):12.8092):38.2582,(((173:28.4604,377:28.4604):32.2541,(269:58.6652,358:58.6652):2.0493):23.3972,663:84.1117):30.005):19.0792,435:133.196):17.3879,((251:105.531,((594:46.0964,595:46.0964):13.036,596:59.1324):46.3991):36.321,560:141.852):8.73144):8.40347,(283:134.985,509:134.985):24.0027):16.999,((213:67.1705,(((718:35.4647,719:35.4647):0.773876,(520:15.5951,562:15.5951):20.6435):28.2756,(268:47.7365,528:47.7365):16.7777):2.65637):47.1234,356:114.294):61.6924):41.9008,551:217.887):7.52692,(((196:15.6231,624:15.6231):194.689,(586:100.424,691:100.424):109.889):3.82514,((255:154.483,((((265:3.85272,732:3.85272):107.442,655:111.294):22.4454,531:133.74):11.3493,343:145.089):9.39428):57.0185,660:211.502):2.6356):11.2767):13.3148,(((491:0.790893,508:0.790893):161.437,(420:134.032,907:134.032):28.1955):11.5744,609:173.802):64.927):32.8839,(((169:21.2755,243:21.2755):141.567,(260:25.6354,261:25.6354):137.207):33.4899,((521:99.4566,((683:33.5067,684:33.5067):45.5556,827:79.0623):20.3943):49.9535,522:149.41):46.922):75.2807):26.2652,662:297.878):38.3227,497:336.201):1.31954,((364:114.471,871:114.471):163.542,(434:275.427,641:275.427):2.58672):59.507):6.02183,284:343.542):12.98,(((110:131.3,(872:129.174,496:129.174):2.12663):82.9161,630:214.217):90.8388,875:305.055):51.4668):2.38819,(((378:180.643,(381:157.472,382:157.472):23.1719):16.698,(379:166.849,380:166.849):30.4927):12.7858,((694:147.587,((696:25.7444,(697:13.0785,(699:11.3535,701:11.3535):1.725):12.666):114.325,700:140.07):7.51697):62.4129,((695:40.8283,702:40.8283):154.101,698:194.93):15.0699):0.127786):148.783):3.81088):90.0414,((369:79.3199,370:79.3199):175.605,(498:197.48,736:197.48):57.4441):197.838):81.9081,(((((733:83.2537,(270:26.8548,271:26.8548):56.3989):7.29493,((64:0.884917,664:0.884917):64.64,734:65.525):25.0237):143.598,740:234.147):15.4965,(217:133.026,(228:108.246,229:108.246):24.7807):116.617):99.4735,218:349.117):185.554):26.9453):28.485,725:590.101):11.8799,((((((((((((14:163.013,(901:58.5034,906:58.5034):104.509):18.5978,(900:76.6584,905:76.6584):104.952):10.7841,((902:122.277,904:122.277):4.26323,903:126.54):65.8542):0.401602,467:192.796):53.1688,(((613:155.919,(614:116.727,(((617:35.6691,620:35.6691):20.5115,791:56.1805):25.2827,619:81.4633):35.2634):39.1927):27.1491,618:183.068):47.2536,(615:34.3333,(616:0.887421,621:0.887421):33.4459):195.989):15.643):6.85633,456:252.821):50.8102,(842:292.85,((843:233.302,(455:76.5583,637:76.5583):156.744):26.1398,844:259.442):33.4083):10.7812):111.486,89:415.118):81.7385,(((((((136:83.0568,431:83.0568):44.5628,479:127.62):93.2309,(219:56.0721,483:56.0721):164.778):75.4435,755:296.294):101.55,899:397.844):16.9241,(((635:68.14,118:68.14):48.3295,117:116.469):61.5592,(((632:35.401,(633:4.34677,881:4.34677):31.0543):77.1313,(634:51.8122,638:51.8122):60.7201):12.7517,((636:86.4303,(880:62.0567,(882:13.7944,883:13.7944):48.2624):24.3736):24.2032,639:110.634):14.6506):52.7446):236.74):77.3834,536:492.152):4.70448):67.1397,((542:117.889,543:117.889):3.25485,564:121.144):442.852):2.73279,475:566.729):24.4562,(((((316:42.8049,317:42.8049):58.6355,324:101.44):145.728,318:247.168):1.19124,(((322:3.94887,323:3.94887):193.069,321:197.017):10.8571,320:207.875):40.4847):284.092,319:532.452):58.7337):10.7958):32.8002):1.01993,(((((((147:74.4731,151:74.4731):247.428,(148:159.605,149:159.605):162.296):103.219,150:425.12):1.41274,241:426.533):99.3635,(503:450.37,(((512:29.2099,513:29.2099):116.184,515:145.394):213.724,514:359.118):91.252):75.526):6.02321,((259:433.518,((((398:12.6764,403:12.6764):128.917,404:141.594):104.91,400:246.504):133.11,(((399:27.3546,405:27.3546):7.96719,401:35.3218):105.743,402:141.064):238.549):53.9046):22.1186,(526:288.28,527:288.28):167.357):76.2829):57.5317,((((((((174:124.343,237:124.343):36.0415,(((170:32.1012,171:32.1012):51.128,172:83.2292):30.7156,(530:9.40457,656:9.40457):104.54):46.4397):48.9773,809:209.362):114.381,(((107:79.4557,(108:33.582,109:33.582):45.8737):195.357,650:274.813):32.6664,((577:23.9435,738:23.9435):207.232,739:231.175):76.3041):16.2632):199.55,((((185:71.8035,186:71.8035):256.58,644:328.384):72.1174,((187:170.23,(188:78.9009,748:78.9009):91.3295):84.1832,189:254.414):146.088):43.0133,((248:58.2721,249:58.2721):111.255,(278:141.309,279:141.309):28.2187):273.987):79.7782):16.7442,((((99:175.093,100:175.093):4.12276,570:179.216):41.1326,647:220.348):9.16922,569:229.517):310.52):9.65994,(((54:111.839,166:111.839):216.769,((162:47.9234,558:47.9234):251.237,((((((163:83.4084,165:83.4084):71.3182,167:154.727):57.6439,168:212.371):59.5427,164:271.913):9.0527,(216:63.2099,869:63.2099):217.756):0.0740716,(838:197.152,839:197.152):83.888):18.1202):29.4476):0.020935,((182:271.196,183:271.196):46.1555,184:317.352):11.277):221.068):12.5585,(((((((26:19.0965,788:19.0965):40.3096,845:59.4061):40.4027,787:99.8087):166.938,27:266.746):20.8925,((((41:138.55,(48:16.693,63:16.693):121.857):21.2537,(622:56.1887,737:56.1887):103.615):53.4444,244:213.248):41.4964,(126:37.4401,406:37.4401):217.304):32.8945):12.5112,((((49:154.717,(((96:51.8955,((239:9.41379,240:9.41379):15.7739,502:25.1877):26.7078):28.1123,523:80.0078):19.5227,891:99.5305):55.1864):10.8638,764:165.581):10.5754,549:176.156):1.42266,((374:17.4633,506:17.4633):153.975,(588:47.3458,(589:27.1534,590:27.1534):20.1923):124.093):6.14006):122.571):61.1415,((((((((((97:55.2424,(785:25.5167,786:25.5167):29.7257):28.8863,898:84.1287):4.40172,897:88.5304):9.66438,(703:32.3135,892:32.3135):65.8812):15.6199,197:113.815):83.4165,789:197.231):47.8381,((548:29.1449,587:29.1449):118.327,860:147.472):97.5972):24.3247,645:269.394):17.1486,(((198:1.15577,798:1.15577):20.7362,(304:16.1408,797:16.1408):5.75117):251.974,(((((212:30.4723,211:30.4723):108.74,((((231:70.2479,233:70.2479):16.8029,235:87.0508):28.6065,(234:110.1,236:110.1):5.55748):22.5302,232:138.187):1.02431):21.4267,((692:58.6256,693:58.6256):34.9722,765:93.5977):67.0407):35.6114,(784:188.468,((((750:20.4709,753:20.4709):102.745,754:123.216):22.8329,751:146.049):27.8119,752:173.86):14.6073):7.78211):41.7806,(((230:70.6381,795:70.6381):97.4699,(793:102.323,(794:11.3657,796:11.3657):90.9572):65.7851):49.2972,792:217.405):20.6253):35.8359):12.6762):62.3453,(((((((((((33:52.506,34:52.506):62.1466,(35:94.9861,98:94.9861):19.6666):30.7017,407:145.354):11.1814,563:156.536):76.1915,(220:143.816,(360:111.041,((361:31.2549,363:31.2549):29.1234,362:60.3784):50.6625):32.7752):88.9111):1.41785,661:234.145):75.1287,(((92:24.9376,93:24.9376):28.4338,(111:25.4563,112:25.4563):27.9151):197.01,((529:100.728,801:100.728):100.345,804:201.073):49.3085):58.8922):13.8998,((((((193:22.1606,480:22.1606):78.6949,(((488:2.19787,790:2.19787):73.1408,559:75.3387):6.23438,829:81.5731):19.2824):22.5917,426:123.447):62.2016,741:185.649):80.8736,((238:41.019,501:41.019):180.526,385:221.545):44.977):45.3236,((571:1.06962,572:1.06962):137.924,704:138.993):172.853):11.3275):5.36532,(659:171.675,(729:140.09,730:140.09):31.5855):156.864):15.5283,((((133:287.397,(((222:132.796,(223:92.561,((225:70.6861,227:70.6861):13.3859,226:84.072):8.48908):40.2349):6.57517,((340:67.6883,(341:5.09643,342:5.09643):62.5918):52.6409,339:120.329):19.042):33.3677,(((((285:12.2847,286:12.2847):58.1699,(287:17.3239,288:17.3239):53.1308):29.4786,(289:45.8224,290:45.8224):54.1109):22.5091,(723:50.0802,908:50.0802):72.3622):16.5496,((432:1.94171,874:1.94171):61.063,433:63.0047):75.9873):33.7469):114.658):24.3908,(((((436:52.3713,440:52.3713):71.4869,(439:43.9356,442:43.9356):79.9226):59.6458,(446:30.9748,441:30.9748):152.529):44.4075,((437:67.9969,444:67.9969):27.9335,438:95.9303):131.981):40.4789,(443:97.3283,445:97.3283):171.062):43.3975):3.01442,160:314.802):1.54886,(224:39.7264,415:39.7264):276.625):27.716):2.77563,((((135:136.974,451:136.974):68.5215,847:205.496):57.3374,(353:215.458,(713:181.529,714:181.529):33.9288):47.375):82.2576,(((330:167.654,(332:87.934,334:87.934):79.7196):135.542,(331:166.416,(333:148.465,335:148.465):17.9511):136.779):32.0624,((((((25:201.735,(489:90.7468,836:90.7468):110.989):59.4814,325:261.217):30.7855,((((825:188.293,((((((((813:1.28343,815:1.28343):11.7797,826:13.0632):27.8308,818:40.8939):6.03025,819:46.9242):87.1583,(816:92.7825,817:92.7825):41.2999):37.6786,814:171.761):7.11534,((822:37.79,823:37.79):138.226,824:176.016):2.85993):1.873,(820:99.3545,821:99.3545):81.395):7.54312):42.4962,(((((250:10.765,274:10.765):38.0634,273:48.8285):6.51206,272:55.3405):14.5757,(275:33.0304,277:33.0304):36.8858):59.0891,276:129.005):101.783):27.0031,(((623:208.568,(214:78.0152,((245:6.04281,717:6.04281):20.9968,246:27.0396):50.9756):130.552):19.4697,(495:155.273,494:155.273):72.7646):19.4252,666:247.462):10.3294):10.0023,(459:9.86935,490:9.86935):257.925):24.2082):2.06927,(((((((131:122.3,132:122.3):53.6919,(((685:67.4266,(686:14.2254,687:14.2254):53.2012):27.0008,689:94.4274):64.8126,688:159.24):16.7521):31.0005,199:206.993):1.05563,761:208.048):20.8494,(763:185.058,762:185.058):43.8399):10.7764,(((447:153.667,448:153.667):33.6474,476:187.314):25.0286,453:212.343):27.3315):3.94472,(200:63.8367,201:63.8367):179.782):50.4527):15.925,266:309.997):12.6773,((((((((120:75.9571,221:75.9571):13.937,893:89.8941):60.5355,((129:89.9751,612:89.9751):4.37352,731:94.3487):56.0809):15.0128,(((((127:14.5442,130:14.5442):3.34414,128:17.8883):3.20171,690:21.0901):121.677,482:142.767):18.7775,(373:58.1601,578:58.1601):103.384):3.89772):66.8926,(((876:7.14785,878:7.14785):124.675,879:131.823):5.84945,877:137.672):94.6626):8.14628,646:240.481):2.68579,((372:142.88,((452:24.2521,579:24.2521):50.1754,499:74.4275):68.4523):55.9443,(((507:68.3182,724:68.3182):37.5929,831:105.911):50.005,728:155.916):42.9081):44.3429):67.8692,(484:299.076,(532:296.367,(119:267.165,((547:169.622,720:169.622):93.1795,((((((((((((((30:10.1447,32:10.1447):27.6862,28:37.8309):45.9241,((((29:19.2401,368:19.2401):13.6941,31:32.9343):32.7579,((297:30.1659,(299:18.6003,863:18.6003):11.5656):24.6964,298:54.8623):10.8299):1.73679,(301:20.6467,302:20.6467):46.7823):16.326):6.46955,((122:52.9328,(525:5.11944,828:5.11944):47.8133):4.11979,585:57.0526):33.172):6.64086,584:96.8654):26.4722,121:123.338):35.5464,(350:45.9299,726:45.9299):112.954):13.8566,((328:115.235,(((329:47.0503,510:47.0503):17.9468,450:64.9972):1.8304,(347:42.1715,(417:25.7799,418:25.7799):16.3915):24.6561):48.4073):29.1817,((((336:37.2662,349:37.2662):14.2286,337:51.4949):9.59403,(345:22.8592,348:22.8592):38.2297):50.1805,(344:75.5215,346:75.5215):35.7479):33.1471):28.3241):29.0441,((((((((125:22.1365,727:22.1365):3.86461,158:26.0011):20.7177,783:46.7188):17.8943,157:64.6131):48.7808,(156:112.329,(597:82.5095,((599:37.9882,600:37.9882):5.14616,601:43.1344):39.3751):29.8199):1.06452):4.80104,598:118.195):37.7142,602:155.909):24.4812,((((((((((202:8.03817,295:8.03817):20.139,(205:11.0195,210:11.0195):17.1577):65.5215,(203:42.48,207:42.48):51.2186):7.28879,208:100.987):3.49477,204:104.482):34.6579,209:139.14):1.60769,(206:36.6315,580:36.6315):104.116):6.03863,(384:117.217,(485:85.4887,(((486:11.5933,(383:9.96264,583:9.96264):1.63061):13.5122,581:25.1055):46.4598,582:71.5653):13.9234):31.728):29.5698):14.5721,(296:79.9451,300:79.9451):81.4133):3.40538,(327:153.219,511:153.219):11.5453):15.6265):21.3943):3.60947,(152:153.425,(((((282:36.657,862:36.657):7.29231,861:43.9493):12.2633,(159:9.0164,654:9.0164):47.1961):18.03,(545:28.11,546:28.11):46.1326):50.3608,592:124.603):28.8219):51.9689):25.1412,60:230.535):11.2868,(73:38.1325,416:38.1325):203.69):0.863846,799:242.686):6.40637,(((68:92.2149,(832:91.2214,(833:70.5273,834:70.5273):20.694):0.993532):116.85,800:209.065):24.0633,(573:230.639,((((390:95.2235,397:95.2235):18.7916,391:114.015):27.733,(392:96.7786,(((393:56.9667,394:56.9667):11.6887,396:68.6554):15.4433,395:84.0987):12.68):44.9694):88.3363,((((((((42:85.9544,(43:77.1201,(44:73.7026,(45:33.4209,47:33.4209):40.2818):3.41747):8.83433):27.184,46:113.138):4.71198,(841:5.36212,(518:4.8483,519:4.8483):0.513825):112.488):27.0645,195:144.915):13.4987,516:158.414):33.0736,454:191.487):5.96809,((((((((69:17.4334,70:17.4334):45.6021,((71:51.0394,550:51.0394):5.79957,410:56.8389):6.19654):35.7574,(409:5.45767,412:5.45767):93.3352):6.15603,411:104.949):0.388549,413:105.337):14.5415,(((258:4.95294,681:4.95294):75.8431,672:80.7961):23.6466,((((677:9.01795,675:9.01795):10.314,678:19.3319):27.7106,(576:44.9866,((((670:1.91617,674:1.91617):8.41268,679:10.3288):19.8274,682:30.1562):11.2364,((671:5.00157,673:5.00157):21.1278,680:26.1293):15.2633):3.59386):2.05603):28.1648,676:75.2073):29.2354):15.4362):31.6704,((481:5.44337,721:5.44337):136.399,((604:37.4261,(605:31.1999,606:31.1999):6.22616):98.6161,607:136.042):5.80006):9.70708):35.4404,(((757:45.8029,760:45.8029):47.2051,758:93.008):92.0636,759:185.072):1.91807):10.4657):13.284,(((((766:78.5861,896:78.5861):9.41607,(769:60.7452,771:60.7452):27.257):62.1554,(770:79.5247,772:79.5247):70.6328):43.0653,767:193.223):13.9493,(((858:35.9499,773:35.9499):114.397,859:150.347):37.9609,(457:178.102,(747:150.367,((((776:26.2762,779:26.2762):49.6659,780:75.9421):25.164,778:101.106):35.1006,(((267:29.3386,281:29.3386):28.2736,(280:1.32884,777:1.32884):56.2834):25.4876,(((61:6.27178,62:6.27178):47.2237,768:53.4954):27.8798,(449:52.4896,(((774:0.511784,775:0.511784):7.43485,857:7.94664):31.6347,(1:26.4744,2:26.4744):13.1069):12.9083):28.8856):1.72462):53.107):14.16):27.7351):10.206):18.8642):3.56734):19.345):0.554511):2.48925):15.9642):13.7093):4.36374):29.2017):2.7086):11.9605):11.6377):12.5843):9.83257):1.75201):2.04504):12.4038):200.964):27.196):46.3498):0.768885,((59:387.084,(524:48.2173,812:48.2173):338.867):69.7999,868:456.884):179.686);
+END;

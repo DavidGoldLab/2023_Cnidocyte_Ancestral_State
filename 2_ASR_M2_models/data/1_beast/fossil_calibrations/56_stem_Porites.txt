@@ -1,0 +1,9 @@
+Porites_astreoides
+Porites_compressa
+Porites_cylindrica
+Porites_lobata
+Porites_nigrescens
+Porites_lutea
+Porites_branneri
+Porites_porites
+Porites_divaricata
