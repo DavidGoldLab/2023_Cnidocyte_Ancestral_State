@@ -1,0 +1,359 @@
+---
+title: "cnidome_datacleanup"
+author: "Noemie Sierra"
+date: "7/19/2020"
+output: html_document
+---
+
+```{r setup, echo=F}
+
+  knitr::opts_chunk$set(warning = FALSE, include = FALSE)
+  knitr::opts_knit$set(root.dir = "/PATH/TO/PROJECT/DIRECTORY/")
+  
+  # Set up project directory
+  root="/Users/noemie/Desktop/Supplemental-materials/scripts/test_data_cleanup_3-29/" ## SET PATH TO PROJECT DIRECTORY ROOT
+  dir.create(file.path(root, 'data'), recursive = TRUE)
+  dir.create(file.path(root, 'data/alignments_18'), recursive = TRUE)
+  dir.create(file.path(root, 'data/character_data'), recursive = TRUE)
+  dir.create(file.path(root, 'data/character_data/M2'), recursive = TRUE)
+  dir.create(file.path(root, 'data/fossil_calibrations'), recursive = TRUE)
+  dir.create(file.path(root, 'iqtree'), recursive = TRUE)
+  dir.create(file.path(root, 'beast'), recursive = TRUE)
+  dir.create(file.path(root, 'beast/beauti'), recursive = TRUE)
+
+
+  # Load packages and tools
+  suppressMessages(library(phytools))
+  suppressMessages(library(gsheet))
+  suppressMessages(library(stringr))
+  suppressMessages(library("Biostrings"))
+  suppressMessages(library(worms))
+  `%notin%`<-Negate(`%in%`)
+
+
+```
+
+
+Tree Cleanup
+
+Removes tips from tree without sufficiently specific nomenclature and changes any species names that have been updated on WoRMS. Saves to a nexus file for use with IQTree/BEAST. The resulting tree has 908 species (904 + 4 outgroups) when excluding species without sufficiently specific nomenclature and removing tips that have been consolidated into single species on WoRMS.
+
+
+```{r Tree Cleanup, echo=FALSE}
+  
+
+  # Download relative-time calibrated tree from github, save local copy
+    if (file.exists(paste0(root,"/tree_Picciani2018.tre"))==F){
+      url = "https://raw.githubusercontent.com/npicciani/picciani_et_al_2018/master/Analyses/10_Time_calibration/tree_cnid_635.tre"
+      dest = paste0(root,"data/tree_Picciani2018.tre")
+      download.file(url,dest,method="curl")
+      rm(url,dest)
+    }
+
+  # Load in tree  
+    raw_tree<-read.tree(file=paste0(root,"data/tree_Picciani2018.tre"))[[1]]
+  
+  # Remove branches where the species name is not sufficiently descriptive
+    drop<- c("_sp$", "_gen$","_nr$","^Uncultured_","^Unverified_","^Undescribed_","Orange_sea")
+    tree<-drop.tip(raw_tree,grep(paste(drop,collapse="|"),raw_tree$tip.label, value=T) ,trim.internal=TRUE,subtree=FALSE,rooted=is.rooted(raw_tree),collapse.singles=T,interactive=F); rm(drop,raw_tree)
+    
+   # Replace the species names with most recent nomenclature from WoRMS
+    # Load in the deprecated_names document
+    suppressMessages(dep<-read.csv(text=(gsheet2text('https://docs.google.com/spreadsheets/d/1T3-qX9tAqZ2CCQocp8CEVprsjDayoYmffNf_8F3_pzc/edit#gid=0'))))
+    dep<-dep[,1:2]
+    dep<-dep[!(dep$accepted_name=="" | dep$fixed_tree==""),]
+    # Replace species on the tree
+    for (i in 1:length(tree$tip.label)){
+      if(tree$tip.label[i] %in% dep$fixed_tree){
+        tree$tip.label[i]<-as.character(dep$accepted_name[match(tree$tip.label[i],dep$fixed_tree)])}
+    }; rm(i)
+  # Prune species that now appear multiple times in tree
+    drop<-which(duplicated(tree$tip.label)==T)
+    tree<-drop.tip(tree,drop,trim.internal=TRUE,subtree=FALSE,rooted=is.rooted(tree),collapse.singles=T,interactive=F); rm(drop)
+  
+  # Save a copy of this tree with branch lengths
+    write.tree(tree,paste0(root,"/data/pruned_tree_chrono.tre"))
+    
+  # Tree info:
+    outgroup<-c("Amphimedon queenslandica","Magallana gigas","Strongylocentrotus purpuratus","Trichoplax adhaerens")
+    message(sprintf("%s total species: %s cnidarian and 4 outgroups \n(%s)",length(tree$tip.label),length(tree$tip.label)-4,paste(outgroup,collapse=", "))); 
+    
+    
+    
+```
+
+
+Character Data Cleanup
+
+The following generates the files based on the species on the fixed tree.
+```{r Character Data Cleanup, echo=FALSE}
+  
+
+  # Read in character data from online source
+    suppressMessages(raw_data<-read.csv(text=(gsheet2text('https://docs.google.com/spreadsheets/d/1QsjBudixX8J0eXoN8efMSXI7RoyC2EtCczzdkim9SUA/edit?usp=sharing'))))
+    # Save to a file
+      write.table(subset(raw_data, select=-c(X,Key)),file=paste0(root,"data/character_data/raw_character_",gsub(paste0(format(Sys.Date(), "%Y"),"-"),"",Sys.Date()),".txt"),quote=F,sep="\t",row.names=F)
+    
+  # Data Cleanup
+    # Remove extra columns and rows (user info in google sheet)
+      data<-subset(raw_data, select=-c(X,Key)); rm(raw_data)
+      data<-data[!(data$Species==""),]
+    #d<-d[!(d$A=="B" & d$E==0),]  multiconditional
+    # Replace species with accepted names, remove entries that are now duplicate due to name change, re-sort alphabetically
+      data$Species<-ifelse(data$Accepted!="",as.character(data$Accepted),as.character(data$Species)); data$Accepted<-NULL
+      data<-unique(data)
+      data<-data[with(data,order(Class,Species)),] # keep sorted by Class and then Species
+      
+  # Check
+    if(tree$tip.label[!tree$tip.label %in% unique(data$Species)]!=str_replace(outgroup[1:4]," ","_")){print("There are conflicts between the nomenclature on the tree and in the character dataset")}
+  
+    # Save to a file
+      write.table(data,file=paste0(root,"data/character_data/character_",gsub(paste0(format(Sys.Date(), "%Y"),"-"),"",Sys.Date()),".txt"),quote=F,sep="\t",row.names=F)
+
+```
+
+
+
+Get Taxonomy Information for building cnidocyte data file
+```{r}
+
+    ## Download WoRMS TAXONOMY
+    outgroup<-c("Amphimedon_queenslandica","Magallana_gigas","Strongylocentrotus_purpuratus","Trichoplax_adhaerens")
+    tax<-tree$tip.label
+    
+    taxon_names<-tax[!tax %in% grep(paste0(outgroup, collapse = "|"), tax, value = T)]
+    
+    w <- wormsbynames(taxon_names,marine_only = "false")
+    worms_reg <- wormsbynames(taxon_names, match=TRUE, marine_only = "false") #with fuzzy match
+    
+    #Make useful df
+    #should have taxon_names, w$scientificname, w$valid_AphiaID, w$class, w$order, w$family, w$genus
+    taxonomy<-cbind(taxon_names, w$scientificname, w$valid_AphiaID, w$class, w$order, w$family, w$genus)
+    colnames(taxonomy)<- c("query_name","worms_name","AphiaID", "Class", "Order", "Family", "Genus") 
+    #Save
+    write.csv(taxonomy,paste0(root,"data/taxonomy.csv"), row.names = FALSE)
+    
+    
+    # Read in taxonomy data from online source
+    suppressMessages(taxonomy_df<-read.csv(text=(gsheet2text('https://docs.google.com/spreadsheets/d/1WhqZ-SUwa95IWzHx7uCtD_whU9mMyjzC0wbVjfNhAkY/edit?usp=sharing'))))
+    # Save to a file
+      write.table(subset(taxonomy_df, select=-c(X,Key)),file=paste0(root,"data/character_data/taxonomy_",gsub(paste0(format(Sys.Date(), "%Y"),"-"),"",Sys.Date()),".txt"),quote=F,sep="\t",row.names=F)
+
+  # APPEND CNIDOCYTE DATA TO TAXON INFO
+  for (type in cnidocytes){
+    # Make an empty df, populate states$Species with all species on tree
+    states <- setNames(data.frame(matrix(ncol=2, nrow=length(tree$tip.label))), c("Species", type))
+    states[,1]<-sort(tree$tip.label)
+    
+    # Populate states$State with cnidocyte present(1), absent(0)
+    spp_with <- as.vector(unique(data[which(data$Cnidocyte == type),2]))
+    states[,2]<-ifelse(states$Species %in% spp_with,1,0)
+
+    # Append to cnidocyte data
+    if 
+    tax_cnidocytes<-merge.data.frame(taxonomy_df, states,all=TRUE)
+  }
+    
+    
+    
+    # save a tab file for the data (per intructions on BEAUti)
+    names(states)<-c("traits",type)
+    filename = paste0(root,"data/character_data/M2/",type,"_data.tab")
+    #write.table(states, file=filename, sep="\t", quote=FALSE, row.names = F)
+  }; rm(spp_with,type,filename,states,cnidocytes)
+    
+    
+    
+```
+
+Fossil Calibration Data
+
+Download taxon lists for each fossil from github, used in BEAST to chronologically calibrate nodes
+
+```{r}
+
+  # Download list of fossil calibration files
+      url = "https://raw.githubusercontent.com/nsierra1/cnidome_asr/master/fossil_calibration/fossil_calib_file_list.txt"
+      dest = paste0(root,"/fossil_calibrations/fossil_calib_file_list.txt")
+      download.file(url,dest,method="wget")
+      
+    c_list<-as.vector(as.matrix(read.table(paste0(root,"/data/fossil_calibrations/fossil_calib_file_list.txt"))))
+    
+    for (file in c_list){
+      if (file.exists(paste0(root,"data/fossil_calibrations/",file))==F){
+        url = paste0("https://raw.githubusercontent.com/nsierra1/cnidome_asr/master/fossil_calibration/",file)
+        dest = paste0(root,"/fossil_calibrations/",file)
+        download.file(url,dest,method="wget")
+      }
+    }; rm(url,dest,c_list)
+    
+  # Use fossil calibration data to create a starting tree with branch lengths that do not disagree with fossil data
+    
+    # Download starttree program from github, build 
+    #url = "https://github.com/nsierra1/cnidome_asr/raw/master/starttree"
+    #dest = paste0(str_remove(root, "/data"),"starttree")
+    #download.file(url,dest,method="wget")
+    #system(paste0("chmod u+x ",str_remove(root, "/data"),"starttree"))
+    #system(paste0("PATH=$PATH:",str_remove(root, "/data")))
+
+    # Download fossil calibration input file
+    url = "https://raw.githubusercontent.com/nsierra1/cnidome_asr/master/nodes_fossilcalib.txt"
+    dest = paste0(root,"fossil_calibrations/nodes_fossilcalib.txt")
+    download.file(url,dest,method="wget")
+
+    # Run starttree
+    x<-paste0("starttree -tre ",root,"pruned_tree_chrono.tre -cal ",root,"fossil_calibrations/nodes_fossilcalib.txt -out ",root,"pruned_tree.phy -n ",length(tree$tip.label))
+    suppressMessages(system(x))
+    
+    # Save to nexus for BEAUti import 
+    calib_tree<-read.tree(file=paste0(root,"/pruned_tree_chrono.phy"))
+    writeNexus(calib_tree,paste0(root,"/pruned_tree_chrono_input.nex"))
+    
+
+```
+
+
+Gene Data Cleanup v2 - Gene Partitions
+
+Opens each multiple sequence alignment to remove accession numbers from the headers (for BEAST to connect the tree species and character species to the sequence data). Because cnidomes can vary between sister species, sequences without sufficiently specific nomenclature are also trimmed. An exception is made for Velella_sp (which is renamed to Velella_velella), since the genus Velella is considered monotypic.
+
+The resulting list of species is 2450 sp long - which is reduced to 908 (904 + 4 outgroups) when excluding species that do not appear on the final fixed tree or do not have sufficiently specific nomenclature, and removing tips that have been consolidated into single species on WoRMS.
+
+```{r message=FALSE}
+
+
+  genes<-c("12S","16S","18S","28S","COI")
+  trim_SpH=c()
+  fasta_Sp=c()
+  for (u in genes){
+      # Download the sequence alignment file from github, save local copies
+      if (file.exists(paste0(root,"/alignments_18/",u,"-trimmed-unique.fasta"))==F){
+        url = paste0("https://raw.githubusercontent.com/npicciani/picciani_et_al_2018/master/Analyses/3_Processed_alignments/",u,"-trimmed-unique.fasta")
+        dest = paste0(root,"/alignments_18/",u,"-trimmed-unique.fasta")
+        download.file(url,dest,method="wget") #change method to auto before pubs
+        rm(url,dest)
+      }
+
+      # Load in the fasta
+        file=paste0(root,"/alignments_18/",u,"-trimmed-unique.fasta")
+        fasta<-as.matrix(read.FASTA(file,type="DNA")); rm(file)
+        
+      # Change the "_sp" tag on Velella species (monotypic)
+        rownames(fasta)<-gsub("Velella_sp","Velella_velella",as.vector(dimnames(fasta)[[1]]))
+      
+      # Remove accession numbers from fasta headers
+          SpH<-row.names(fasta) # Save headers with accession numbers to a vector
+        accession<-c("_[A-Z]{1,2}_?\\d+.\\d","_\\d{1,4}-?\\d{4}")
+        rownames(fasta)<-gsub(paste(accession,collapse="|"),"",as.vector(dimnames(fasta )[[1]])); rm(accession)
+        
+      # Replace the species names with most recent nomenclature from WoRMS to match the tree
+       for (t in row.names(fasta)[row.names(fasta) %in% dep$fixed_tree]){
+        row.names(fasta)[which(row.names(fasta)==t)]<-as.character(dep$accepted_name[match(t,dep$fixed_tree)])}
+
+      # Remove species not found on the fixed tree 
+        trim_SpH<-append(trim_SpH, SpH[row.names(fasta) %notin% tree$tip.label])
+        fasta<-fasta[row.names(fasta) %in% tree$tip.label,]
+        
+      # Save species remaining in file to a vector
+        fasta_Sp<-append(fasta_Sp,row.names(fasta)) #overwrite the above
+      
+      # Save as new fasta file
+        write.FASTA(fasta,paste0(root,"/alignments_18/",u,"-pruned.fasta"))
+  }
+
+  
+    # Save list of species retained in gene files to a txt
+    if (sort(unique(fasta_Sp))==sort(tree$tip.label)){
+      write.table(sort(unique(fasta_Sp)),file=paste0(root,"/alignments_18/species_list.txt"),quote=F,row.names=F,col.names=F)}
+    
+    # Save alphabetical list of species trimmed from fasta files to a txt file
+    write.table(sort(unique(trim_SpH)),file=paste0(root,"/alignments_18/fasta_species-trimmed.txt"),quote=F,row.names=F,col.names=F)
+
+rm(SpH,fasta,fasta_Sp,u,i,dep, trim_SpH,t)
+
+```    
+    
+    
+    
+  ## IQTree pointed out that multiple pruned gene files had duplicate sequence headers (multiple sequences for the same spacies). Remove the sequence that has more gaps "-", or if they are equivalent, remove the first one.
+  
+```{r}
+    
+
+    for (u in genes){
+    
+      # Prune species that now appear multiple times in fastas
+        # Load in the fasta
+        file=paste0(root,"/alignments_18/",u,"-pruned.fasta")
+        align<-as.alignment(as.matrix(read.FASTA(file,type="DNA")));rm(file)
+        fasta<-as.DNAbin(align)
+          
+        sec<-which(duplicated(align[["nam"]])==T)
+        if(length(sec)>0){ # if there are duplicate values in the file
+          fir<-match(align[["nam"]][sec],align[["nam"]])
+        
+          for (i in length(fir):1){
+            # information in seq is the number of non-indel characters (string length - "-")
+            infoA<-nchar(align[["seq"]][sec[i]]) - str_count(align[["seq"]][sec[i]],pattern="-")
+            infoB<-nchar(align[["seq"]][fir[i]]) - str_count(align[["seq"]][fir[i]],pattern="-")
+          
+            if (infoA > infoB) fasta<-fasta[-which(duplicated(row.names(fasta)))[i],] 
+            else fasta<-fasta[-match(row.names(fasta)[which(duplicated(row.names(fasta)))[i]],row.names(fasta)),]
+          }
+          
+        # Overwrite fasta
+        write.FASTA(fasta, paste0(root,"/alignments_18/",u,"-pruned.fasta"))
+        
+        # Eventually figure out how to locate the accession from the original fasta (going to have to be by sequence matching b/c many of the duplicates are the result of the nomenclature update, which isn't reflected in the trimmed-unique.fasta)
+      }
+        
+        
+    }; suppressWarnings(rm(align,fir,sec,u,i,infoA,infoB,cut,accession,fasta))
+  
+
+```
+
+
+Run IQTree
+
+Use IQTree model selection to find potential models of best fit on the sequence data to narrow models used in BEAST. Models are limited to those available in BEAUti (doc)
+```{r}
+  
+
+  c=1
+  # Create folder for the date if not present, set counter for IQTree runs
+  if (dir.exists(paste0(root,"/iqtree/", gsub(paste0(format(Sys.Date(), "%Y"),"-"),"",Sys.Date())))==F){
+    c=1
+    dir.create(paste0(root, "/iqtree/", gsub(paste0(format(Sys.Date(), "%Y"),"-"),"",Sys.Date())),recursive=TRUE,showWarnings=FALSE)
+  } else {
+      while (file.exists(paste0(root,"/iqtree/",gsub(paste0(format(Sys.Date(), "%Y"),"-"),"",Sys.Date()),"/",genes[1],"_",gsub(paste0(format(Sys.Date(), "%Y"),"-"),"",Sys.Date()),"_",c,".log"))==T) {
+        c=c+1
+      }
+  }
+  
+    # Move into directory (only within this notebook chunk)
+  suppressWarnings(setwd(paste0(root, "/iqtree/", gsub(paste0(format(Sys.Date(), "%Y"),"-"),"",Sys.Date()))))
+
+  # Run IQTree - has an alarm set to notify when IQTree is finished running
+  alarm(suppressMessages(for (u in genes){
+    x<-paste0("iqtree -s ",root,"/alignments_18/",u,"-pruned.fasta -pre ",u,"_",gsub(paste0(format(Sys.Date(), "%Y"),"-"),"",Sys.Date()),"_",c," -st DNA -mset JC,TN93,HKY,GTR -nt AUTO -m TESTNEWONLY")
+    system(x)
+  })); rm(c)
+    
+  
+```
+
+
+Launch BEAUti
+
+Requires the BEAST (install: https://beast.community/installing). BEAUti is a tool to set up parameters for a BEAST input XML. The following will launch the BEAUti gui, R will remain occupied while BEAUti is active.
+
+ - To use the fixed tree generated above as a starting tree, load File > Import Data > "pruned_tree.nex", then select Trees > "User-specified starting tree" and select the tree from the drop-down menu
+
+```{r}
+  
+  # Set path to BEAUti, launch
+  x<-'beauti'
+  suppressMessages(system(x))
+  
+```
